@@ -128,68 +128,6 @@
       }
     </style>
 
-    <div class="tickets-wrapper container">
-      <h1 class="container-title">{$ ticketsBlock.title $}</h1>
-      <content-loader
-        class="tickets-placeholder"
-        card-padding="24px"
-        card-height="216px"
-        border-radius="var(--border-radius)"
-        title-top-position="32px"
-        title-height="42px"
-        title-width="70%"
-        load-from="-70%"
-        load-to="130%"
-        animation-time="1s"
-        items-count="{$ contentLoaders.tickets.itemsCount $}"
-        hidden$="[[contentLoaderVisibility]]">
-      </content-loader>
-
-      <div class="tickets" layout horizontal wrap center-justified>
-        <template is="dom-repeat" items="[[tickets]]" as="ticket">
-          <a
-            class="ticket-item card"
-            href$="[[ticket.url]]"
-            target="_blank"
-            rel="noopener noreferrer"
-            sold-out$="[[ticket.soldOut]]"
-            in-demand$="[[ticket.inDemand]]"
-            on-tap="_onTicketTap"
-            ga-on="click"
-            ga-event-category="ticket"
-            ga-event-action="buy_click"
-            ga-event-label$="[[ticket.name]]"
-            layout vertical
-          >
-            <div class="header">
-              <h4>[[ticket.name]]</h4>
-            </div>
-            <div class="content" layout vertical flex-auto>
-              <div class="ticket-price-wrapper">
-                <div class="price">[[ticket.currency]][[ticket.price]]</div>
-                <div class="discount">[[_getDiscount(ticket)]]</div>
-              </div>
-              <div class="type-description" layout vertical flex-auto center-justified>
-                <div class="ticket-dates" hidden$="[[!ticket.starts]]">[[ticket.starts]] - [[ticket.ends]]</div>
-                <div class="ticket-info">[[ticket.info]]</div>
-              </div>
-            </div>
-            <div class="actions">
-              <div class="sold-out" block$="[[ticket.soldOut]]">
-                {$ ticketsBlock.soldOut $}
-              </div>
-              <paper-button primary hidden$="[[ticket.soldOut]]" disabled$="[[!ticket.available]]">
-                [[_getButtonText(ticket.available)]]
-              </paper-button>
-            </div>
-          </a>
-        </template>
-      </div>
-
-      <div class="additional-info">*{$ ticketsBlock.ticketsDetails $}</div>
-
-    </div>
-
   </template>
 
   <script>
