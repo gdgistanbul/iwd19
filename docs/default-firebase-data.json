@@ -1681,7 +1681,7 @@
     "price" : 80,
     "soldOut" : false,
     "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://www.meetup.com/tr-TR/GDGIstanbul/events/"
   }, {
     "available" : false,
     "currency" : "$",
@@ -1693,7 +1693,7 @@
     "regular" : true,
     "soldOut" : true,
     "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://www.meetup.com/tr-TR/GDGIstanbul/events/"
   }, {
     "available" : true,
     "currency" : "$",
@@ -1705,7 +1705,7 @@
     "regular" : true,
     "soldOut" : false,
     "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://www.meetup.com/tr-TR/GDGIstanbul/events/"
   }, {
     "available" : false,
     "currency" : "$",
@@ -1718,7 +1718,7 @@
     "regular" : true,
     "soldOut" : false,
     "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "https://www.meetup.com/tr-TR/GDGIstanbul/events/"
   }, {
     "available" : true,
     "currency" : "$",
