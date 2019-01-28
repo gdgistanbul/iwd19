@@ -54,8 +54,7 @@
         };
       }
 
-      .nav-item a,
-      .signin-tab {
+      .nav-item a{
         padding: 0 14px;
         color: inherit;
         text-transform: uppercase;
@@ -151,8 +150,6 @@
           <a href="{$ nav.permalink $}" layout vertical center-center>{$ nav.label $}</a>
         </paper-tab>
         {% endfor %}
-
-        <paper-tab class="signin-tab" on-tap="signIn" link hidden$="[[user.signedIn]]">{$ signIn $}</paper-tab>
 
         <a href$="[[_getTicketUrl(tickets)]]" target="_blank" rel="noopener noreferrer" ga-on="click"
            ga-event-category="ticket button" ga-event-action="buy_click">
