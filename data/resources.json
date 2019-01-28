@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "IWD 2019",
+  "description": "Spring is nature's way of saying LET'S PARTY!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "dates": "March 16, 2019",
+  "partnershipProposition": "https://gdg.ist/iwd19-sponsorship",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -36,43 +36,38 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "WTM Istanbul",
+          "url": "http://wtmistanbul.com/",
           "newTab": true
         },
         {
           "name": "Google Developers Group",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore Past IWD Events",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "IWD 2015",
+          "url": "http://2015.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "IWD 2016",
+          "url": "http://2016.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "IWD 2017",
+          "url": "http://2017.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "IWD 2018",
+          "url": "http://2018.wtmistanbul.com/",
           "newTab": true
         }
       ]
@@ -82,22 +77,17 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://gdg.ist/iwd19-sponsorship",
           "newTab": true
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://gdg.ist/wtm19-tanitim",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://gdg.ist/iwd19-cfp",
           "newTab": true
         },
         {
@@ -114,58 +104,49 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "WTM Istanbul brings together the world class experts in Android, Web and Cloud technologies to Istanbul for sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": "https://www.youtube.com/playlist?list=PLSV3VvYZSJP3FjzltBUeF9ri-5_9I90CQ"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Since 2013, WTM Istanbul International Women's Day Events one of the Turkey's biggest technology events that brings rockstar speakers all around the world. Our team hosts IWD Events to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2018",
+        "youtubeId": "_DIh4CuX7e0"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "300+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Day",
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "23"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
     "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "soldOut": "You missed it!"
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
-    "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
-    },
-    "toast": "We will contact you soon!"
+    "button": "Become a partner"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "IWD'18 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/playlist?list=PLSV3VvYZSJP3FjzltBUeF9ri-5_9I90CQ"
     }
   },
   "blog": {
@@ -179,10 +160,9 @@
       "link": "/blog/"
     }
   },
+  "faq": "/markdown/faq.md",
   "speakers": {
-    "skills": "Skills",
-    "previousYears": "Years",
-    "previousYear": "Year"
+    "skills": "Skills"
   },
   "speakersBlock": {
     "title": "Rockstar speakers",
@@ -191,19 +171,13 @@
       "link": "/speakers/"
     }
   },
-  "previousSpeakersBlock": {
-    "title": "Previous speakers",
-    "callToAction": {
-      "label": "View all",
-      "link": "/previous-speakers/"
-    }
-  },
   "galleryBlock": {
     "title": "#dfua16 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.google.com/share/AF1QipOf_1nfMFJz_NKD06h_vGvV6g0SkOJJkeeZP8ZQXXB67R1F0KEEtx5UBDadLFhIzA?key=bmp6Tkk3bjlvcHF6S0F5ckNzdmV2UWFDVXhoenBB",
+      "url": "https://photos.google.com/share/AF1QipOf_1nfMFJz_NKD06h_vGvV6g0SkOJJkeeZP8ZQXXB67R1F0KEEtx5UBDadLFhIzA?key=bmp6Tkk3bjlvcHF6S0F5ckNzdmV2UWFDVXhoenBB"
     }
   },
   "mapBlock": {
@@ -218,16 +192,15 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about WTM IWD Istanbul 2018 sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
     "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "generalError": "Some error has occured. Please, try again later."
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what WTM is about.<br><br> [Women Techmakers (WTM) Istanbul](http://wtmistanubl.com) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -256,43 +229,24 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://wtmistanbul.com' target='_blank'>WTM Istanbul</a> with support of 10 WTMs from all around Turkey is proud organizer of IWD Istanbul",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "What is WTM?",
+        "description": "Women Techmakers (WTM) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
         "callToAction": {
           "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "link": "https://wtmistanbul.com",
           "newTab": true
         }
       }
     ]
-  },
-  "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
-    "alreadyUsed": "You've already used",
-    "signInToContinue": {
-      "part1": "Sign in with",
-      "part2": "to continue."
-    }
-  },
-  "filters": {
-    "title": "Filters",
-    "results": "Results",
-    "tags": "Tags",
-    "complexity": "Complexity",
-    "clear": "Clear all"
-  },
-  "addToHomeScreen": {
-    "cta": "Add to Home Screen"
   }
 }
