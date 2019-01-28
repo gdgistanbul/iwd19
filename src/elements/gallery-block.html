@@ -131,7 +131,7 @@
       <template is="dom-repeat" items="[[gallery]]" as="photo">
         <plastic-image
           class="grid-item"
-          srcset="[[photo.url]]"
+          srcset="[[photo]]"
           sizing="cover"
           lazy-load preload fade
         ></plastic-image>
@@ -141,7 +141,7 @@
           <h2>{$ galleryBlock.title $}</h2>
           <p>{$ galleryBlock.description $}</p>
         </div>
-        <a href="{$ galleryBlock.callToAction.link $}" target="_blank" rel="noopener noreferrer">
+        <a href="https://photos.google.com/share/AF1QipOf_1nfMFJz_NKD06h_vGvV6g0SkOJJkeeZP8ZQXXB67R1F0KEEtx5UBDadLFhIzA?key=bmp6Tkk3bjlvcHF6S0F5ckNzdmV2UWFDVXhoenBB" target="_blank" rel="noopener noreferrer">
           <paper-button>{$ galleryBlock.callToAction.label $}</paper-button>
         </a>
       </div>
@@ -159,26 +159,15 @@
       static get properties() {
         return {
           gallery: {
-            type: Array,
-            statePath: 'gallery.list',
-          },
-          galleryFetching: {
-            type: Boolean,
-            statePath: 'gallery.fetching',
-          },
-          galleryFetchingError: {
-            type: Object,
-            statePath: 'gallery.fetchingError',
+            route: Object,
+            statePath: 'gallery',
           },
         };
       }
 
       connectedCallback() {
         super.connectedCallback();
-
-        if (!this.gallery || !this.gallery.length) {
-          this.dispatch(galleryActions.fetchGallery());
-        }
+        if (!Object.keys(this.gallery).length) galleryActions.fetchGallery();
       }
     }
 
