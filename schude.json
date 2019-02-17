@@ -1,0 +1,217 @@
+{
+    "2016-03-23": {
+        "tracks": [
+            {
+                "title": "Galata"
+            },
+            {
+                "title": "Bogaziçi"
+            },
+            {
+                "title": "Kız Kulesi"
+            }
+        ],
+        "dateReadable": "Mart 23",
+        "timeslots": [
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ],
+                "endTime": "10:00",
+                "startTime": "09:00"
+            },
+            {
+                "startTime": "10:00",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ],
+                "endTime": "10:15"
+            },
+            {
+                "startTime": "10:15",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ],
+                "endTime": "11:00"
+            },
+            {
+                "startTime": "11:00",
+                "sessions": [
+                    {
+                        "items": [
+                            9999,
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ],
+                        "extend": 3
+                    }
+                ],
+                "endTime": "11:40"
+            },
+            {
+                "endTime": "12:30",
+                "startTime": "11:50",
+                "sessions": [
+                    {
+                        "items": [
+                            1299999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ]
+            },
+            {
+                "startTime": "12:30",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ],
+                "endTime": "14:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ],
+                        "extend": 2
+                    }
+                ],
+                "endTime": "14:40",
+                "startTime": "14:00"
+            },
+            {
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ],
+                "endTime": "15:30",
+                "startTime": "14:50"
+            },
+            {
+                "startTime": "15:30",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ],
+                "endTime": "16:00"
+            },
+            {
+                "endTime": "16:40",
+                "startTime": "16:00",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "extend": 3,
+                        "items": [
+                            9999
+                        ]
+                    }
+                ]
+            },
+            {
+                "endTime": "17:30",
+                "startTime": "16:50",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ]
+            },
+            {
+                "endTime": "18:20",
+                "startTime": "17:40",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    },
+                    {
+                        "items": [
+                            125
+                        ]
+                    }
+                ]
+            },
+            {
+                "endTime": "22:30",
+                "startTime": "18:30",
+                "sessions": [
+                    {
+                        "items": [
+                            9999
+                        ]
+                    }
+                ]
+            }
+        ],
+        "date": "2016-09-09"
+    }
+   
+}

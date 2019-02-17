@@ -3,7 +3,7 @@
   "description": "Spring is nature's way of saying LET'S PARTY!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "March 16, 2019",
+  "dates": "March 23, 2019",
   "partnershipProposition": "https://gdg.ist/iwd19-sponsorship",
   "share": "Share",
   "followOur": "Follow our",
@@ -82,18 +82,13 @@
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://gdg.ist/wtm19-tanitim",
+          "url": "https://gdg.ist/iwd19-sponsorship",
           "newTab": true
         },
         {
           "name": "Call for Papers",
           "url": "https://gdg.ist/iwd19-cfp",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
@@ -172,7 +167,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#IWD19 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
@@ -200,7 +195,7 @@
     "generalError": "Some error has occured. Please, try again later."
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what WTM is about.<br><br> [Women Techmakers (WTM) Istanbul](http://wtmistanubl.com) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what WTM is about.<br><br> [Women Techmakers (WTM) Istanbul](http://wtmistanbul.com) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -229,6 +224,7 @@
     }
   },
   "aboutOrganizerBlock": {
+    "image": "https://pbs.twimg.com/media/Di-HhAmV4AABcfu.jpg",
     "blocks": [
       {
         "title": "Organizer",
@@ -244,6 +240,15 @@
         "callToAction": {
           "label": "Read more",
           "link": "https://wtmistanbul.com",
+          "newTab": true
+        }
+      },
+      {
+        "title": "Photos",
+        "description": "Last year photos",
+        "callToAction": {
+          "label": "IWD 2018 Photos",
+          "link": "https://photos.google.com/share/AF1QipOf_1nfMFJz_NKD06h_vGvV6g0SkOJJkeeZP8ZQXXB67R1F0KEEtx5UBDadLFhIzA?key=bmp6Tkk3bjlvcHF6S0F5ckNzdmV2UWFDVXhoenBB",
           "newTab": true
         }
       }
