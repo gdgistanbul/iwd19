@@ -1,8 +1,13 @@
 {
-   
     "9999": {
-        "language": "Turkce",
-        "description": "Yakında!!",
-        "title": "Yakında!!"
+        "complexity": "Beginner",
+        "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+        "language": "English",
+        "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+        "speakers": [],
+        "tags": [
+            "Cloud"
+        ],
+        "title": "Windows and .NET on Google Cloud Platform "
     }
 }

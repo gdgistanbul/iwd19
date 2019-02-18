@@ -1,0 +1,17 @@
+{
+    "0": {
+        "title": "Website and sponsors",
+        "photo": "/images/people/oleh_zasadnyy.jpg",
+        "order": 0,
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+        "name": "Erol Kaftanoglu",
+        "socials": [
+            
+            {
+                "name": "Blog",
+                "icon": "website",
+                "link": "http://erolkaftanoglu.com/"
+            }
+        ]
+    }
+}

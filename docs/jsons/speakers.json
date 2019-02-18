@@ -1,0 +1,23 @@
+{
+    "adrian_kajda": {
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "title": "Product Manager/Developer",
+        "photo": "/images/people/adrian_kajda.jpg",
+        "order": 0,
+        "featured": true,
+        "company": "Sygic",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "plus.google.com/+AdrianKajda",
+                "name": "Google+"
+            }
+        ],
+        "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
+        "name": "Adrian Kajda"
+    }
+}

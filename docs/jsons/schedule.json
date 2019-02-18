@@ -1,73 +1,73 @@
 {
-    "2016-03-23": {
+    "2019-03-23": {
+        "date": "2019-03-23",
         "tracks": [
             {
-                "title": "Galata"
+                "title": "Expo hall"
             },
             {
-                "title": "Bogaziçi"
+                "title": "Conference hall"
             },
             {
-                "title": "Kız Kulesi"
+                "title": "Workshops hall"
             }
         ],
-        "dateReadable": "Mart 23",
+        "dateReadable": "March 23",
         "timeslots": [
             {
+                "endTime": "10:00",
+                "startTime": "09:00",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
-                ],
-                "endTime": "10:00",
-                "startTime": "09:00"
+                ]
             },
             {
+                "endTime": "10:15",
                 "startTime": "10:00",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
-                ],
-                "endTime": "10:15"
+                ]
             },
             {
+                "endTime": "11:00",
                 "startTime": "10:15",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
-                ],
-                "endTime": "11:00"
+                ]
             },
             {
+                "endTime": "11:40",
                 "startTime": "11:00",
                 "sessions": [
                     {
                         "items": [
-                            9999,
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ],
                         "extend": 3
                     }
-                ],
-                "endTime": "11:40"
+                ]
             },
             {
                 "endTime": "12:30",
@@ -75,75 +75,75 @@
                 "sessions": [
                     {
                         "items": [
-                            1299999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
                 ]
             },
             {
+                "endTime": "14:00",
                 "startTime": "12:30",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
-                ],
-                "endTime": "14:00"
+                ]
             },
             {
+                "endTime": "14:40",
+                "startTime": "14:00",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ],
                         "extend": 2
                     }
-                ],
-                "endTime": "14:40",
-                "startTime": "14:00"
+                ]
             },
             {
+                "startTime": "14:50",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
                 ],
-                "endTime": "15:30",
-                "startTime": "14:50"
+                "endTime": "15:30"
             },
             {
+                "endTime": "16:00",
                 "startTime": "15:30",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
-                ],
-                "endTime": "16:00"
+                ]
             },
             {
                 "endTime": "16:40",
@@ -151,19 +151,19 @@
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
-                        "extend": 3,
                         "items": [
-                            9999
-                        ]
+                            140
+                        ],
+                        "extend": 3
                     }
                 ]
             },
@@ -173,12 +173,12 @@
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
                 ]
@@ -189,29 +189,27 @@
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     },
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
                 ]
             },
             {
-                "endTime": "22:30",
-                "startTime": "18:30",
                 "sessions": [
                     {
                         "items": [
-                            9999
+                            140
                         ]
                     }
-                ]
+                ],
+                "endTime": "22:30",
+                "startTime": "18:30"
             }
-        ],
-        "date": "2016-03-23"
+        ]
     }
-   
 }

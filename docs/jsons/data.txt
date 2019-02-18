@@ -1,0 +1,29 @@
+npm run firestore:copy sessions ./docs/jsons/sessions.json
+npm run firestore:copy ./docs/jsons/sessions.json sessions / generatedSessions
+
+
+#schedule
+npm run firestore:copy schedule ./docs/jsons/schedule.json
+npm run firestore:copy ./docs/jsons/schedule.json schedule
+npm run firestore:copy ./docs/jsons/schedule.json generatedSchedule
+
+#blog
+npm run firestore:copy blog ./docs/jsons/blog.json
+npm run firestore:copy ./docs/jsons/blog.json blog
+
+#Speakers
+yarn firestore:copy speakers ./docs/jsons/speakers.json
+yarn firestore:copy ./docs/jsons/speakers.json speakers
+npm run firestore:copy generatedSpeakers ./docs/jsons/generatedSpeakers.json
+npm run firestore:copy ./docs/jsons/generatedSpeakers.json generatedSpeakers
+
+
+previousSpeakers
+npm run firestore:copy previousSpeakers ./docs/jsons/previousSpeakers.json
+npm run firestore:copy ./docs/jsons/previousSpeakers.json previousSpeakers
+
+#team
+npm run firestore:copy team ./docs/jsons/team.json
+npm run firestore:copy ./docs/jsons/team.json team
+npm run firestore:copy team/0/members ./docs/jsons/team.json  
+npm run firestore:copy ./docs/jsons/team.json team/0/members
