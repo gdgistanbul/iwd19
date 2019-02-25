@@ -59,6 +59,12 @@
             "logos": [
                 {
                     "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/gdgistanbul.png?alt=media&token=5ba96b89-4231-40c2-b1eb-4da9b5797c20",
+                    "name": "GDG İstanbul",
+                    "url": "https://gdg.ist"
+                },
+                {
+                    "order": 0,
                     "logoUrl": "https://pbs.twimg.com/profile_images/993460867126751234/NF7joSq9_400x400.jpg",
                     "name": "Agile Turkey",
                     "url": "http://www.agileturkey.org/"
@@ -98,6 +104,12 @@
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/ZoneApp.jpeg?alt=media&token=c27de89d-17e5-4e8a-8097-7cd523263e0d",
                     "name": "Zone App",
                     "url": "#"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/kadin-yazilimci.png?alt=media&token=e00230c0-8da2-4986-8ec4-367d38df96fb",
+                    "name": "Kadın Yazılımcı",
+                    "url": "#"
                 }
             ],
             "order": 8,
@@ -110,6 +122,12 @@
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/500x560pk.jpg?alt=media&token=e9b38240-de70-404d-8e0a-896dcd8717f7",
                     "name": "HardwarePlus",
                     "url": "https://hwp.com.tr"
+                },
+                {
+                    "order": 1,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/indir.png?alt=media&token=61ae964a-dde7-4381-8755-9ebbab6f23eb",
+                    "name": "indir.com",
+                    "url": "https://www.indir.com"
                 }
             ],
             "order": 8,
@@ -525,6 +543,32 @@
             ],
             "tags": [
                 "Robotic"
+            ]
+        },
+        "MerveBasak": {
+            "bio": "Merve Başak Anadolu Üniversitesi bilgisayar mühendisliği 3.sınıf öğrencisidir. Action on Google  üzerine  şu anda çalışmalarda bulunuyor. Medium ve Github üzerinden  projelere ulaşabilirsiniz. Ayrıca 2017 yılından beri GDG ve WTM Eskişehir ekibinde yer almaktadır.",
+            "company": "",
+            "companyLogoUrl": "",
+            "country": "Turkey",
+            "featured": true,
+            "name": "Merve Başak",
+            "title": "Student",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/merve_basak.jpg?alt=media&token=a1b49bde-90f4-4494-9787-760e6efa87a5",
+            "shortBio": "Action on Google  üzerine  şu anda çalışmalarda bulunuyor.",
+            "socials": [
+                {
+                    "icon": "website",
+                    "link": "https://medium.com/@mervebasak",
+                    "name": "Blog"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/bsk_mrv",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Action on Google"
             ]
         }
     },
