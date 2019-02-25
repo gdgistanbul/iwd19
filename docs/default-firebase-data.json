@@ -35,12 +35,48 @@
             "logos": [
                 {
                     "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/google.png?alt=media&token=29967743-e249-47f4-bf47-1184a9047c85",
+                    "name": "Google",
+                    "url": "https://about.google/intl/en/"
+                }
+            ],
+            "order": 0,
+            "title": "General Sponsor"
+        },
+        {
+            "logos": [
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/Accenture.png?alt=media&token=bfd35ec4-722e-4388-9790-de2dbeef0cbd",
+                    "name": "Accenture",
+                    "url": "https://www.accenture.com/us-en"
+                }
+            ],
+            "order": 1,
+            "title": "Platinum Sponsor"
+        },
+        {
+        "logos": [
+            {
+                "order": 0,
+                "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/vngrs_red_logo.svg?alt=media&token=6772232d-6079-4933-bfcb-13fca0a4c24a",
+                "name": "VNGRS",
+                "url": "https://vngrs.com/"
+            }
+        ],
+        "order": 2,
+        "title": "Bronze Sponsor"
+        },
+        {
+            "logos": [
+                {
+                    "order": 0,
                     "logoUrl": "../images/logos/gdg-lviv.svg",
                     "name": "GDG Lviv",
                     "url": "https://plus.google.com/102444623953913144164"
                 }
             ],
-            "order": 9,
+            "order": 10,
             "title": "Template Creator"
         },
         {
@@ -112,7 +148,7 @@
                     "url": "#"
                 }
             ],
-            "order": 8,
+            "order": 7,
             "title": "Community Partners"
         },
         {
@@ -797,7 +833,7 @@
           {
             "name" : "Büşra Yıldız",
             "photo" : "/images/people/busra_yildiz.jpg",
-            "photoUrl" : "",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/busra_yildiz.png?alt=media&token=45c1ed00-6976-448d-bb5b-e2a60780203e",
             "socials" : [ {
               "icon" : "instagram",
               "link" : "https://www.instagram.com/busrayildiz0/",
@@ -845,7 +881,7 @@
           {
             "name" : "Caner Yıldırım",
             "photo" : "/images/people/caner_yildirim.jpg",
-            "photoUrl" : "",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/caner_yildrim.jpg?alt=media&token=bdbb2651-b1ea-4c2d-9cf2-00be6d82854e",
             "socials" : [ {
               "icon" : "linkedin",
               "link" : "https://www.linkedin.com/in/protechman/",
