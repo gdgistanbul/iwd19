@@ -572,7 +572,295 @@
             ]
         }
     },
-    "team": [],
+    "team": [{
+        "members" : [ {
+            "name" : "Burcu Yalçınkaya",
+            "photo" : "/images/people/burcu_yalcinkaya.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/burcu_yalcinkaya.jpg?alt=media&token=1aedf868-45c9-4ba0-b273-570a60ff53ed",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/burcuco/",
+              "name" : "Linkedin"
+              }, 
+              {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/burcuco",
+                "name" : "Twitter"
+              },
+              {
+                "icon" : "website",
+                "link" : "http://burcu.co/",
+                "name" : "Website"
+             }],
+            "order" : 0,
+            "title" : "General Stuff"
+          },
+          {
+            "name" : "Selahattin Köle",
+            "photo" : "/images/people/selahattin_kole.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/selahattin_kole.jpg?alt=media&token=c4229ba7-ef4a-4700-959e-2fded949b65b",
+            "socials" : [ {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/selahattinkole",
+              "name" : "Twitter"
+              },
+              {
+                "icon" : "linkedin",
+                "link" : "https://www.linkedin.com/in/selahattinkole/",
+                "name" : "Linkedin"
+              }],
+              "order" : 1,
+              "title" : "General Stuff"
+          },
+          {
+            "name" : "Okan Aydın",
+            "photo" : "/images/people/okan_aydin.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/okan_aydin.jpg?alt=media&token=be201e6d-d2dc-4ecf-81d4-06dc5d1d243d",
+            "socials" : [ {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/okanaydin34",
+                "name" : "Twitter"
+                },
+                {
+                  "icon" : "linkedin",
+                  "link" : "https://www.linkedin.com/in/okanaydin34/",
+                  "name" : "Linkedin"
+                }],
+              "order" : 1,
+              "title" : "General Stuff"
+          }],
+          "title" : "General Stuff"
+    },
+    {
+        "members" : [ {
+            "name" : "Selin Tunç",
+            "photo" : "/images/people/selin_tunc.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/selin_tunc.jpg?alt=media&token=52d6162f-f148-42de-916b-661e6e7ff997",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/selinkaragulletunc",
+              "name" : "Linkedin"
+              }],
+              "order" : 0,
+              "title" : "Website"
+          },
+          {
+            "name" : "Erol Kaftanoğlu",
+            "photo" : "/images/people/erol_kaftanoglu.jpg",
+            "photoUrl" : "https://erolkaftanoglu.com/images/profile.jpg",
+            "socials" : [ {
+              "icon" : "twitter",
+              "link" : "twitter.com/erolkaftanoglu",
+              "name" : "Twitter"
+              }],
+              "order" : 1,
+              "title" : "Website"
+          }],
+          "title" : "Website Team"
+    },
+    {
+        "members" : [{
+            "name" : "Zülfü Adar",
+            "photo" : "/images/people/zulfu_adar.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/zulfu_adar.jpg?alt=media&token=424dfe8c-b356-4791-8306-68b015099538",
+            "socials" : [ {
+              "icon" : "facebook",
+              "link" : "https://www.facebook.com/zulfu.adar",
+              "name" : "Facebook"
+            }],
+              "order" : 1,
+              "title" : "Sponsorship"
+          },
+          {
+            "name" : "Onur Şafak",
+            "photo" : "/images/people/onur_safak.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/onur_safak.png?alt=media&token=37512b60-a640-4d39-b7ca-fca0badb8d2d",
+            "socials" : [ {
+              "icon" : "github",
+              "link" : "https://github.com/osafak",
+              "name" : "Github"
+            },
+            {
+                "icon" : "facebook",
+                "link" : "https://www.facebook.com/onsafak93",
+                "name" : "Facebook"
+            },
+            {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/onsafak",
+                "name" : "Twitter"
+            },
+            {
+                "icon" : "Website",
+                "link" : "http://osafak.com/",
+                "name" : "Website"
+              }],
+              "order" : 1,
+              "title" : "Sponsorship"
+          },
+          {
+            "name" : "Ece Zeynep Kalyoncuoğlu",
+            "photo" : "/images/people/ece_kalyoncuoglu.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/ece_kalyoncuoglu.jpg?alt=media&token=10fc0951-2536-4238-8654-4e1d8f91421c",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/ece-zeynep-kalyoncuo%C4%9Flu-5911516b",
+              "name" : "Linkedin"
+            }],
+              "order" : 2,
+              "title" : "Sponsorship"
+          }],
+          "title" : "Sponsorship Team"
+    },
+    {
+        "members" : [{
+            "name" : "Hadi Tok",
+            "photo" : "/images/people/hadi_tok.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/hadi_tok.jpeg?alt=media&token=0b7103a9-908c-4ab7-ad52-c8d82ec77b84",
+            "socials" : [ {
+              "icon" : "website",
+              "link" : "https://haditok.com/",
+              "name" : "Website"
+            },
+            {
+                "icon" : "medium",
+                "link" : "https://medium.com/@oshamahue",
+                "name" : "Medium"
+            },
+            {
+                "icon" : "github",
+                "link" : "https://medium.com/@oshamahue",
+                "name" : "Github"
+            }],
+              "order" : 0,
+              "title" : "Speaker Communication"
+          }],
+          "title" : "Speaker Team"
+    },
+    {
+        "members" : [{
+            "name" : "Dilruba Yücesoy",
+            "photo" : "/images/people/dilruba_yucesoy.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/dilruba_yucesoy.jpg?alt=media&token=e3b8fff0-f197-4daf-aa7f-5cf04da148ba",
+            "socials" : [ {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/yucesoydilruba",
+              "name" : "Twitter"
+              },
+              {
+                "icon" : "linkedin",
+                "link" : "https://www.linkedin.com/in/yucesoydilruba/",
+                "name" : "Linkedin"
+            },
+            {
+                "icon" : "github",
+                "link" : "https://github.com/yucesoydilruba",
+                "name" : "Github"
+            },
+            {
+                "icon" : "instagram",
+                "link" : "https://www.instagram.com/yuruyenyerfistigi",
+                "name" : "Instagram"
+            }],
+              "order" : 0,
+              "title" : "Social Media"
+          },
+          {
+            "name" : "Duygu Türkmen",
+            "photo" : "/images/people/duygu_turkmen.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/duygu_turkmen.jpg?alt=media&token=8e8f738d-b24d-4f78-843f-61d9b6610f45",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/turkmenduygu/",
+              "name" : "Linkedin"
+              }],
+              "order" : 1,
+              "title" : "Social Media"
+          },
+          {
+            "name" : "Cafer Mert Ceyhan",
+            "photo" : "/images/people/mert_ceyhan.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/mert_ceyhan.jpg?alt=media&token=b6d25dc0-7304-411b-9254-972824718b49",
+            "socials" : [ {
+              "icon" : "twitter",
+              "link" : "https://twitter.com/mertceyhan",
+              "name" : "Twitter"
+              }, 
+              {
+                "icon" : "linkedin",
+                "link" : "https://www.linkedin.com/in/mertceyhan/",
+                "name" : "Linkedin"
+              }],
+              "order" : 2,
+              "title" : "Social Media"
+          },
+          {
+            "name" : "Büşra Yıldız",
+            "photo" : "/images/people/busra_yildiz.jpg",
+            "photoUrl" : "",
+            "socials" : [ {
+              "icon" : "instagram",
+              "link" : "https://www.instagram.com/busrayildiz0/",
+              "name" : "Instagram"
+              }],
+              "order" : 3,
+              "title" : "Social Media"
+          }],
+          "title" : "Social Media Team"
+    },
+    {
+        "members" : [ {
+            "name" : "Sercan Yusuf",
+            "photo" : "/images/people/sercan_yusuf.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/sercan_yusuf.jpg?alt=media&token=e7fce139-17cb-4611-9043-8c016f1aa2d0",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://twitter.com/srcnysf",
+              "name" : "Linkedin"
+              },
+              {
+                "icon" : "twitter",
+                "link" : "https://www.linkedin.com/in/sercanyusuf/",
+                "name" : "Twitter"
+            },
+            {
+                "icon" : "website",
+                "link" : "https://medium.com/@sercanyusuf",
+                "name" : "Website"
+            }],
+              "order" : 0,
+              "title" : "Design"
+          },{
+            "name" : "Ali Şahin Aydoğan",
+            "photo" : "/images/people/alisahin_aydogan.jpg",
+            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/alisahin_aydogan.jpg?alt=media&token=b26c0a4e-25c3-49dc-b1b6-7a6cc4d23a29",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/alisahinaydogan/",
+              "name" : "Linkedin"
+              }],
+              "order" : 1,
+              "title" : "Design"
+          },
+          {
+            "name" : "Caner Yıldırım",
+            "photo" : "/images/people/caner_yildirim.jpg",
+            "photoUrl" : "",
+            "socials" : [ {
+              "icon" : "linkedin",
+              "link" : "https://www.linkedin.com/in/protechman/",
+              "name" : "Linkedin"
+              },
+              {
+                "icon" : "twitter",
+                "link" : "https://twitter.com/protechman",
+                "name" : "Twitter"
+                }],
+              "order" : 2,
+              "title" : "Design"
+          }],
+          "title" : "Design Team"
+    }],
     "tickets": [
         {
             "available": true,
