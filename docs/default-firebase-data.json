@@ -44,6 +44,18 @@
             "title": "General Sponsor"
         },
         {
+            "logos": [
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/Accenture.png?alt=media&token=bfd35ec4-722e-4388-9790-de2dbeef0cbd",
+                    "name": "Accenture",
+                    "url": "https://www.accenture.com/us-en"
+                }
+            ],
+            "order": 1,
+            "title": "Platinum Sponsor"
+        },
+        {
         "logos": [
             {
                 "order": 0,
