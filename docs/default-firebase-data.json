@@ -59,13 +59,61 @@
             "logos": [
                 {
                     "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adphorus.png?alt=media&token=2142401f-2dac-4eed-97ed-33ccb60858f4",
+                    "name": "Adphorus",
+                    "url": "https://adphorus.com/"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/vestel-kirmizi-logo-buyuk.png?alt=media&token=2da97590-a909-4ee2-9d09-c1b1afa319c6",
+                    "name": "Vestel",
+                    "url": "http://www.vestel.com.tr/"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adesso.png?alt=media&token=ffa7a8c5-eefb-4083-baa1-4fbd2f3652f0",
+                    "name": "Adesso",
+                    "url": "https://www.adesso.com.tr/en/index-3.jsp"
+                }
+            ],
+            "order": 2,
+            "title": "Silver Sponsor"
+        },
+        {
+            "logos": [
+                {
+                    "order": 0,
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/vngrs_red_logo.svg?alt=media&token=6772232d-6079-4933-bfcb-13fca0a4c24a",
                     "name": "VNGRS",
                     "url": "https://vngrs.com/"
                 }
             ],
-            "order": 2,
+            "order": 3,
             "title": "Bronze Sponsor"
+        },
+        {
+            "logos": [
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/boomset.png?alt=media&token=9a30c90d-efc3-4ae6-bcd4-9a2a0cbd8ee7",
+                    "name": "Boomset",
+                    "url": "https://boomset.com/"
+                }
+            ],
+            "order": 4,
+            "title": "Print  Sponsor"
+        },
+        {
+            "logos": [
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/robotistan.png?alt=media&token=d67f1672-43aa-4702-b1ef-d7bba46b8d46",
+                    "name": "Robotistan",
+                    "url": "https://www.robotistan.com/"
+                }
+            ],
+            "order": 5,
+            "title": "Gift  Sponsor"
         },
         {
             "logos": [
@@ -710,6 +758,413 @@
             ],
             "tags": [
                 "Angular"
+            ]
+        },
+        "UmitDuran": {
+            "bio": "Ümit Anadolu Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisi. Mobil Uygulama geliştirme ile ilgilenen Ümit, bir süredir Flutter konusunda içerikler üretmeye ve paylaşmaya çalışıyor. Aynı Zamanda 4 yıldır GDG/WTM Eskişehir üyesidir.",
+            "company": "GDG Eskişehir",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/gdgEsk.jpg?alt=media&token=7dfe8fa2-14ab-418a-ab97-f3348dba24bc",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Ümit Duran",
+            "title": "Student",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/umit-duran.jpg?alt=media&token=593a30a8-531f-46f3-8d13-fad5cb4583b2",
+            "shortBio": "Bir süredir Flutter konusunda içerikler üretmeye ve paylaşmaya çalışıyor. Aynı Zamanda 4 yıldır GDG/WTM Eskişehir üyesidir.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/flutterist",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "website",
+                    "link": "https://medium.com/@durannumit",
+                    "name": "Blog"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/durannumit",
+                    "name": "Github"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/durannumit/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Mobile",
+                "Flutter"
+            ]
+        },
+        "İlknurCiftcibasi": {
+            "bio": "İlknur Çifçibaşı Sales Director, Türk Telekom İlknur Çifçibaşı, had Bachelor Degree from Mimar Sinan University in Statistics with  First Honors Degree  and also had MBA from Yeditepe University (Double Major- Marketing & Finance).  Starting business career in Evyap Holding in 1998 then respectively  Turkey's 3.mobile operatör Aria, Avea nearly 10 years experience as Corporate  Sales Account Manager, Sales Development Manager Giant company in technology, Microsoft experience as Senior Account Manager for more than 6 years.  Since 2017 February, she as WholeSale Sales Director has been working in Turk Telekom.",
+            "company": "TURK TELEKOM",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/turk-telekom.jpg?alt=media&token=db7fee71-15c7-4e78-ae4e-5aaee9d57404",
+            "country": "Turkey",
+            "featured": false,
+            "name": "İlknur Çiftçibaşı",
+            "title": "SALES DIRECTOR",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/ilknur_ciftcibasi.jpg?alt=media&token=3a2c28fa-5774-41fb-b987-ce8d7e550ac0",
+            "shortBio": "İlknur Çifçibaşı Sales Director, Türk Telekom.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/Ilknurrr",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "website",
+                    "link": "http://ikarosss.blogspot.com/",
+                    "name": "Blog"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/ilknur-cifcibasi-0a0b9813/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": []
+        },
+        "SemaSancar": {
+            "bio": "Computer Engineer /iOS Developer",
+            "company": "HDI Sigorta A.S",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/hdi-sigorta.jpg?alt=media&token=6846cd1a-4a04-441f-a121-04c024d09be6",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Sema Sancar",
+            "title": "Mobile Application Developer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/semasancar01.jpg?alt=media&token=999921af-1b8c-4ea1-8b1d-1213b6eff812",
+            "shortBio": "Computer Engineer /iOS Developer",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/semasancar",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Mobile",
+                "Swift"
+            ]
+        },
+        "EceEyisoy": {
+            "bio": "A solopreneur designer helping businesses start-up, grow or increase revenue. A match-maker who lives to help brands find their true identity and create remarkable experiences for the right customers, so they fall in love with each other.",
+            "company": "Self Employed",
+            "companyLogoUrl": "",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Ece Eyisoy",
+            "title": "Designer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/ece-eyisoy.jpg?alt=media&token=11a678cb-9ce7-4086-bbd8-fa9c510ca3ec",
+            "shortBio": "A solopreneur designer helping businesses start-up, grow or increase revenue.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/edgotte",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Design"
+            ]
+        },
+        "GizemMoralKunter": {
+            "bio": "Gizem Moral Kunter, Henkel ve Turkcell gibi önde gelen şirketlerin beyin takımında görev almış, Türkiye'nin en hızlı büyüyen online listeleme platformu Emlakjet'in CEO'luğunu başarı ile yürütmüş bir kadın liderdir. Strateji geliştirmekten start-up yöneticiliğine giden 20 yılı aşkın çok yönlü bir kariyer yolculuğuna sahip Gizem Moral Kunter, lise eğitimini İzmir Amerikan Koleji'nde tamamladıktan sonra 1993-97 yılları arasında lisans öğrenimini Marmara Üniversitesi'nde Ekonometri bölümünde aldı. İş hayatına çok uluslu bir şirket olan Henkel'de başlayan Kunter, bu yıllar esnasında Yeditepe Üniversitesi'nde MBA eğitimini tamamladı. FMCG sektöründe elde ettiği 7 yıllık deneyimin ardından 2004 yılında Turkcell'e geçen Moral Kunter sırasıyla; Stratejik Pazarlama, Gnctrkcll Marka Yönetimi ve şirketin büyümesinde önemli bir alan olan Mobil İnternet Ürün Yönetimi gibi çeşitli bölümlerin yöneticiliğini üstlendi. 2015 yılında, online emlak dikeyinin en önemli oyuncularından biri olan Emlakjet'in CEO görevine getirildi. Telekomünikasyon ve  perakende sektörlerindeki deneyimini, analitik düşünebilme ve stratejik pazarlama yetileriyle birleştirerek gayrimenkul sektörüne aktarmıştır. Ürüne ve yeteneğe yaptığı doğru yatırımlar ile elde ettiği başarı sonucu üst üste 3 sene Emlakjet'in Digital Age Dergisi tarafından 'Online Emlak Dikeyinde Oyunu Değiştiren Marka'(Challenger Brand) seçilmesini sağlamıştır.",
+            "company": "Emlakjet",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/emlakjet.png?alt=media&token=8784a1d1-7bb1-4473-8345-59d7b0deabd9",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Gizem Moral Kunter",
+            "title": "ex CEO-Senior Business Executive",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/gizem-moral-kunter.JPG?alt=media&token=7cd47948-7a3d-4f5a-a0ec-34632232bd47",
+            "shortBio": "Gizem Moral Kunter, Henkel ve Turkcell gibi önde gelen şirketlerin beyin takımında görev almış, Türkiye'nin en hızlı büyüyen online listeleme platformu Emlakjet'in CEO'luğunu başarı ile yürütmüş bir kadın liderdir.  ",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/gizemmoral",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Agile"
+            ]
+        },
+        "MerveCerit": {
+            "bio": "Bogazici Üniversitesi Bilgisayar ve Endüstri Mühendisligi bölümlerinden 2018 yilinda mezun oldu. Microsoft'ta Yapay Zeka alaninda çalisiyor. Yaratici Düsünceyi desteklemek icin calismalar yapiyor.",
+            "company": "Microsoft",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/microsoft.jpg?alt=media&token=d7bae2d4-d66a-4d80-8201-c134d8fb82e3",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Merve Cerit",
+            "title": "Data&AI Technology Solutions Professional",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/MerveCerit.jpg?alt=media&token=8b8d78bb-b868-4e8b-9f72-075700b63567",
+            "shortBio": "Microsoft'ta Yapay Zeka alaninda çalisiyor.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/mmervecerit",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/mmervecerit/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "AI"
+            ]
+        },
+        "YelizTurunc": {
+            "bio": "Yeliz Turunç, 1999'da Boğaziçi Üniversitesi Bilgisayar Mühendisliği'nden mezun olduktan sonra Doğan Online'da Sistem Mühendisi olarak çalışmaya başladı. Daha sonra Koç.net , Koçsistem'de çeşitli teknik ve yöneticilik görevleri üstlendi. 2009'da Koç Üniversitesinde İşletme Yüksek Lisansını tamamladı. 2013 yılından beri Microsoft'ta çalışmakta olan Yeliz Turunç,  Ortadoğu ve Kuzey Afrika Pazarında Ürün Lideri olarak görev almaktadır.",
+            "company": "Microsoft",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/microsoft.jpg?alt=media&token=d7bae2d4-d66a-4d80-8201-c134d8fb82e3",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Yeliz Turunç",
+            "title": "GLOBAL BLACKBELT",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/YelizTurunc2_2018.jpg?alt=media&token=54d3762b-56f7-42c5-8fc6-060334aa7932",
+            "shortBio": "2013 yılından beri Microsoft'ta çalışmakta olan Yeliz Turunç,  Ortadoğu ve Kuzey Afrika Pazarında Ürün Lideri olarak görev almaktadır.",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/yeliz-turunç-5501095/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Mobile",
+                "Leadership"
+            ]
+        },
+        "SelinTunc": {
+            "bio": "Selin is a software developer at Garanti Technology. She loves learning new things.",
+            "company": "Garanti Technology",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/garantiteknoloji.jpg?alt=media&token=6ae843f2-c645-48fb-b7a7-b7646ba02cc5",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Selin Tunç",
+            "title": "Software Developer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/selin_tunc.jpg?alt=media&token=52d6162f-f148-42de-916b-661e6e7ff997",
+            "shortBio": "Selin is a software developer at Garanti Technology. She loves learning new things.",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://tr.linkedin.com/selinkaragulle",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Web"
+            ]
+        },
+        "ErolKaftanoglu": {
+            "bio": "Ben Erol Kaftanoglu, Blindid, android developer  olarak çalışmaktayım, fatih sultan mehmet üniversitesinde son sınıf ögrencisi ve GDG Istanbul organizatör olarak gönüllü destek oluyorum.",
+            "company": "Blindid",
+            "companyLogoUrl": "",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Erol Kaftanoğlu",
+            "title": "Android Developer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/erol-kaftanoglu.jpg?alt=media&token=e9111ca2-ecce-47af-b385-c240a2d83f28",
+            "shortBio": "Ben Erol Kaftanoglu, Blindid, android developer  olarak çalışmaktayım, fatih sultan mehmet üniversitesinde son sınıf ögrencisi ve GDG Istanbul organizatör olarak gönüllü destek oluyorum.",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "http://twitter.com/erolkaftanoglu",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Design",
+                "Development"
+            ]
+        },
+        "OrcunKilic": {
+            "bio": "Bilgi VCD mezunu multidisipliner tasarımcı ve Tasarım Mutfağı kurucusu",
+            "company": "Protein",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/protein.png?alt=media&token=a275b56a-a13e-4bcf-9901-5cefc8e5e94c",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Orçun Kılıç",
+            "title": "Head of Design",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/orcun-kilic.jpg?alt=media&token=a7ab3fc8-651b-4978-84eb-682f48c2a1b5",
+            "shortBio": "Bilgi VCD mezunu multidisipliner tasarımcı ve Tasarım Mutfağı kurucusu",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://tr.linkedin.com/orrcunkilic",
+                    "name": "Linkedin"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/orrcunkilic",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Design"
+            ]
+        },
+        "ArdaArican": {
+            "bio": "Bilgi VCD mezunu multidisipliner tasarımcı ve Tasarım Mutfağı kurucusu",
+            "company": "Betbull",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/betbull.png?alt=media&token=9a005b29-c6d1-4619-8552-15510f668038",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Arda Arıcan",
+            "title": "Product Designer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/arda-arican.png?alt=media&token=16867fb5-ae0b-4879-b020-372d6605e6c6",
+            "shortBio": "Bilgi VCD mezunu multidisipliner tasarımcı ve Tasarım Mutfağı kurucusu",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://tr.linkedin.com/ardaarican",
+                    "name": "Linkedin"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/ardaarican",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Design"
+            ]
+        },
+        "SezgiSensoz": {
+            "bio": "Versatile Front-end Developer with 8+ years of experience building web applications for clients using modern JavaScript.",
+            "company": "Adphorus",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adphorus.png?alt=media&token=2142401f-2dac-4eed-97ed-33ccb60858f4",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Sezgi Şensöz",
+            "title": "Lead Front-end Developer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/SezgiSensoz.jpg?alt=media&token=7a43f700-d1c8-4702-9d1d-58221205779c",
+            "shortBio": "Versatile Front-end Developer with 8+ years of experience building web applications for clients using modern JavaScript.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/mefallit",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Leadership",
+                "career"
+            ]
+        },
+        "SercanYusuf": {
+            "bio": "Hi, I started Developing Android in 2014 after I and couple of my friend founded Google Developer Group Tekirdag. Since then I have organized and participated hundreds of events around the word. I gave workshops about developing Android, using Google Technologies, Firebase, Flutter, Desig and more.",
+            "company": "Boomset",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/boomset.png?alt=media&token=9a30c90d-efc3-4ae6-bcd4-9a2a0cbd8ee7",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Sercan Yusuf",
+            "title": "Android Developer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/sercan_yusuf.jpg?alt=media&token=e7fce139-17cb-4611-9043-8c016f1aa2d0",
+            "shortBio": "I started Developing Android in 2014 after I and couple of my friend founded Google Developer Group Tekirdag.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/srcnysf",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/sercanyusuf",
+                    "name": "Github"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/sercanyusuf/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Flutter"
+            ]
+        },
+        "KezbanBayir": {
+            "bio": "2002'de İTÜ Kontrol ve Bilgisayar Mühendisliği'nden mezun oldum. Cloud, web, PCler, PLCler, mikrokontrolörler, endüstriyel el terminalleri, barkod yazıcıları, mobil cihazlar, HMIlar gibi birbiriyle alakasız birçok platform ve ortam için hatırlamadığım sayıda programlama dili ile kod yazdım. Son 5 yıldır daha çok IoT ve cloud platformlarıyla uğraşıyorum. Accenture'ın global Industry X.0 grubunda Senior Software Architect olarak çalışıyorum ve Industry X.0 Technology Office'in 3 üyesinden biriyim.",
+            "company": "Accenture",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/Accenture.png?alt=media&token=bfd35ec4-722e-4388-9790-de2dbeef0cbd",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Kezban Bayır",
+            "title": "Senior Software Architect",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/KezbanBayir.JPG?alt=media&token=c26367f9-4f29-45d9-9ed4-b72d9ad6fa01",
+            "shortBio": "Accenture'ın global Industry X.0 grubunda Senior Software Architect olarak çalışıyorum ve Industry X.0 Technology Office'in 3 üyesinden biriyim.",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/kezbanbayir/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "IOT",
+                "Cloud",
+                "Software Architecture"
+            ]
+        },
+        "FilizGokce": {
+            "bio": "I would describe myself as a very passionate , hard working and analytical person.I am enthusiastic about taking up new challenges in life. I am responsible for providing overall project management, planning, negotiation, execution and delivery for a program which has multiple projects at multi-region. I am responsible for developing coding standards, test plans and review processes. I am responsible for identifying architectural improvements resulting in increased developer efficiency, project reliability, and responsiveness to new feature requests.",
+            "company": "Accenture ",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/Accenture.png?alt=media&token=bfd35ec4-722e-4388-9790-de2dbeef0cbd",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Filiz Gökçe",
+            "title": "Software Development Associate Manager",
+            "photoUrl": "",
+            "shortBio": "I am responsible for providing overall project management, planning, negotiation, execution and delivery for a program which has multiple projects at multi-region.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/filizgkc",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Mobile",
+                "IOT, Devops"
+            ]
+        },
+        "YaseminDemirdelen": {
+            "bio": "Experienced Senior Project Manager & Scrum Master. Graduated from Bogazici University/Industrial Engineering. Passionate about learning Agile Project Management , especially Scrum. Currently holding PMP, PSM I, PSPO I, PSK I certificates and giving Agile Project Management & Scrum & Kanban Foundations trainings.",
+            "company": "Adesso",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adesso.png?alt=media&token=ffa7a8c5-eefb-4083-baa1-4fbd2f3652f0",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Yasemin Demirdelen",
+            "title": "Scrum Master",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/YaseminDemirdelen.jpg?alt=media&token=4bf3ee15-5d1f-4080-8f0e-72b92449ae76",
+            "shortBio": "Experienced Senior Project Manager & Scrum Master.",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/ydemirdelen-pmp-psm/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Leadership"
+            ]
+        },
+        "PeymanTayilga": {
+            "bio": "Experienced Solution Leader who is responsible from Customer & Channel Solution Line which consist of Individual Internet Branch, Call Center & Mobile Apps and other back office Apps. Graduated from International Relations, currently attending an MIS masters degree at Yeditepe University and holding PSPO I certificate.",
+            "company": "AvivaSA",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/avivasa.png?alt=media&token=68e170fe-7e64-4613-a447-9c525f1f14de",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Peyman Tayılga",
+            "title": "Solution Leader",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/PeymanTayilga.jpg?alt=media&token=6e6724ff-5a04-4eae-976a-620fc04ec895",
+            "shortBio": "Experienced Solution Leader who is responsible from Customer & Channel Solution Line which consist of Individual Internet Branch, Call Center & Mobile Apps and other back office Apps.",
+            "socials": [],
+            "tags": [
+                "Leadership"
             ]
         }
     },
