@@ -74,6 +74,12 @@
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adesso.png?alt=media&token=ffa7a8c5-eefb-4083-baa1-4fbd2f3652f0",
                     "name": "Adesso",
                     "url": "https://www.adesso.com.tr/en/index-3.jsp"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/iyzico.jpg?alt=media&token=97c02555-ac91-445f-bcb7-9b24adf42876",
+                    "name": "iyzico",
+                    "url": "https://www.iyzico.com/"
                 }
             ],
             "order": 2,
@@ -194,6 +200,12 @@
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/kadin-yazilimci.png?alt=media&token=e00230c0-8da2-4986-8ec4-367d38df96fb",
                     "name": "Kadın Yazılımcı",
                     "url": "#"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/mondayhero.png?alt=media&token=c6a8f5d3-2cc2-42c6-a3a1-fd34b4a4ae29",
+                    "name": "MondayHero",
+                    "url": "http://www.gomondayhero.com/"
                 }
             ],
             "order": 7,
@@ -1166,7 +1178,70 @@
             "tags": [
                 "Leadership"
             ]
-        }
+        },
+        "GulCabukKeskin": {
+            "bio": "Gül Çabuk Keskin, Lisans ve Yüksek Lisans'ını Ege Üniversitesi Bilgisayar Mühendisliği'nde tamamlamıştır. 2010 yılından itibaren bulunduğu yazılım sektöründe farklı projelerde görev almıştır. 2018 yılı Kasım ayından itibaren iyzico'da Uzman Yazılım Mühendisi olarak çalışmaktadır.",
+            "company": "iyzico",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/iyzico.jpg?alt=media&token=97c02555-ac91-445f-bcb7-9b24adf42876",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Gül Çabuk Keskin",
+            "title": "Senior Software Engineer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/gulcabukkeskin.png?alt=media&token=aeb9bf54-0d0d-49c5-997b-1af5a4779b41",
+            "shortBio": "2018 yılı Kasım ayından itibaren iyzico'da Uzman Yazılım Mühendisi olarak çalışmaktadır.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/gulcabuk",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Web"
+            ]
+        },
+        "BarisYesugey": {
+            "bio": "Üniversite eğitimini İngiltere'de (Bilgisayar Bilimleri) tamamlayan Barış, Facebook ve Paypal'da satış ve çözüm mühendisi olarak geliştiricilerin platform teknolojilerini uygulama ve servislerine entegre etmesinde destek oldu. Şu anda, Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir.",
+            "company": "Google",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/google.png?alt=media&token=29967743-e249-47f4-bf47-1184a9047c85",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Barış Yesügey",
+            "title": "Developer Relations Region Lead",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/barisyesugey.jpg?alt=media&token=2ede0cfa-694e-40bb-a0e7-0de9358f1abd",
+            "shortBio": "Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir.",
+            "socials": [
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/barisyesugey/",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Web"
+            ]
+        },
+        "SudoSpeak": {
+            "bio": "İngilizce Ama Ne? İngilizce Ama Ne kadar? Global arenada daha fazla kazanç, daha önemli projeler ve daha kilit müşterilerle çalışmayı isteyen kadın yazılımcılardan İngilizce bilgisi olarak ne bekleniyor? Bu becerileri elde etmenin alternatif yolları nelerdir? Nasıl başarılı olabilirsiniz?",
+            "company": "",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/sudospeak.jpg?alt=media&token=a0d9b244-1887-4ced-8f77-3e264d7d27ac",
+            "country": "Turkey",
+            "featured": false,
+            "name": "SudoSpeak",
+            "title": "SudoSpeak",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/sudo.jpg?alt=media&token=a56cff28-5ff0-41e5-8548-50e4a0aedcd4",
+            "shortBio": "Business English & Communication Skills For Software Developers with tailored curriculum.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/sudospeak",
+                    "name": "Twitter"
+                }
+            ],
+            "tags": [
+                "Web"
+            ]
+        }            
     },
     "team": [
         {
