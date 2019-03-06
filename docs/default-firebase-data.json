@@ -107,7 +107,7 @@
                 }
             ],
             "order": 4,
-            "title": "Print  Sponsor"
+            "title": "Check-In & Badging"
         },
         {
             "logos": [
@@ -277,24 +277,7 @@
                     "sessions": [
                         {
                             "items": [
-                                140
-                            ],
-                            "items": [
-                                140
-                            ],
-                            "items": [
-                                140
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "endTime": "11:40",
-                    "startTime": "11:00",
-                    "sessions": [
-                        {
-                            "items": [
-                                140
+                                143
                             ]
                         },
                         {
@@ -304,19 +287,7 @@
                         },
                         {
                             "items": [
-                                140
-                            ],
-                            "extend": 3
-                        }
-                    ]
-                },
-                {
-                    "endTime": "12:30",
-                    "startTime": "11:50",
-                    "sessions": [
-                        {
-                            "items": [
-                                140
+                                144
                             ]
                         },
                         {
@@ -327,58 +298,136 @@
                     ]
                 },
                 {
-                    "endTime": "14:00",
-                    "startTime": "12:30",
+                    "endTime": "12:40",
+                    "startTime": "12:00",
                     "sessions": [
                         {
                             "items": [
-                                140
+                                145
+                            ]
+                        },
+                        {
+                            "items": [
+                                146
+                            ]
+                        },
+                        {
+                            "items": [
+                                147
+                            ]
+                        },
+                        {
+                            "items": [
+                                148
                             ]
                         }
                     ]
                 },
                 {
-                    "endTime": "14:40",
-                    "startTime": "14:00",
+                    "endTime": "13:30",
+                    "startTime": "12:40",
                     "sessions": [
                         {
                             "items": [
-                                140
+                                149
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "endTime": "14:10",
+                    "startTime": "13:30",
+                    "sessions": [
+                        {
+                            "items": [
+                                150
                             ]
                         },
                         {
                             "items": [
-                                140
+                                151,
+                                152
                             ]
                         },
                         {
                             "items": [
-                                140
+                                153
+                            ]
+                        },
+                        {
+                            "items": [
+                                148
                             ],
                             "extend": 2
                         }
                     ]
                 },
                 {
-                    "startTime": "14:50",
+                    "endTime": "15:00",
+                    "startTime": "14:20",
                     "sessions": [
                         {
                             "items": [
-                                140
+                                154
                             ]
                         },
                         {
                             "items": [
-                                140
+                                155
+                            ]
+                        },
+                        {
+                            "items": [
+                                156
                             ]
                         }
-                    ],
-                    "endTime": "15:30"
+                    ]
                 },
                 {
-                    "endTime": "16:00",
-                    "startTime": "15:30",
+                    "startTime": "15:10",
+                    "endTime": "15:50",
                     "sessions": [
+                        {
+                            "items": [
+                                157
+                            ]
+                        },
+                        {
+                            "items": [
+                                158
+                            ]
+                        },
+                        {
+                            "items": [
+                                159
+                            ]
+                        },
+                        {
+                            "items": [
+                                160
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "endTime": "16:20",
+                    "startTime": "16:00",
+                    "sessions": [
+                        {
+                            "items": [
+                                161
+                            ]
+                        },
+                        {
+                            "items": [
+                                162
+                            ]
+                        },
+                        {
+                            "items": [
+                                163
+                            ]
+                        },
                         {
                             "items": [
                                 140
@@ -388,30 +437,18 @@
                 },
                 {
                     "endTime": "16:40",
-                    "startTime": "16:00",
+                    "startTime": "16:20",
                     "sessions": [
                         {
                             "items": [
-                                140
+                                164
                             ]
                         },
                         {
                             "items": [
-                                140
+                                165
                             ]
                         },
-                        {
-                            "items": [
-                                140
-                            ],
-                            "extend": 3
-                        }
-                    ]
-                },
-                {
-                    "endTime": "17:30",
-                    "startTime": "16:50",
-                    "sessions": [
                         {
                             "items": [
                                 140
@@ -425,17 +462,12 @@
                     ]
                 },
                 {
-                    "endTime": "18:20",
-                    "startTime": "17:40",
+                    "endTime": "17:30",
+                    "startTime": "16:50",
                     "sessions": [
                         {
                             "items": [
-                                140
-                            ]
-                        },
-                        {
-                            "items": [
-                                140
+                                166
                             ]
                         }
                     ]
@@ -444,12 +476,12 @@
                     "sessions": [
                         {
                             "items": [
-                                140
+                                167
                             ]
                         }
                     ],
-                    "endTime": "22:30",
-                    "startTime": "18:30"
+                    "endTime": "17:45",
+                    "startTime": "17:30"
                 }
             ]
         }
@@ -482,6 +514,316 @@
                 "Cloud"
             ],
             "title": "Building serverless applications with Google Cloud"
+        },
+        "144": {
+            "complexity": "Intermediate",
+            "description": "Geçmiş deneyimler açıkça göstermiştir ki; bir yazılım ekibi geliştirdiği uygulama ile ilgili bir karar anı geldiğinde, parayı veren kişinin fikri (Highest Paid Person’s Opinion - HIPPO) yerine müşterisinin geribildirimine güvenmelidir. Müşteri geribildirim sürecini kurabilmek içinse kontrollü bir deney ortamı oluşturmak gereklidir. Bu deney ortamı için Feature Toggling, Control/Treatment tests, A/A testing, A/B testing gibi özellikler ile gerçekten şaşırtıcı sonuçlar elde etmek mümkündür. Bu konuşmada müşterilerine korumalı alışveriş deneyimi yaşatmak isteyen bir ekibin kontrollü deney çalışmalarını paylaşmayı hedefliyorum.",
+            "language": "Turkish",
+            "speakers": [
+                "GulCabukKeskin"
+            ],
+            "tags": [
+                "Web Technologies",
+                "Mobile Technologies",
+                "UI/UX"
+            ],
+            "title": "Continuous customer experience by controlled experiments"
+        },
+        "145": {
+            "complexity": "Intermediate",
+            "description": "A Journey to DevOps",
+            "language": "Turkish",
+            "speakers": [
+                "FilizGokce"
+            ],
+            "tags": [
+                "Mobile Technologies",
+                "IoT",
+                "DevOps"
+            ],
+            "title": "A Journey to DevOps"
+        },
+        "146": {
+            "complexity": "Beginner",
+            "description": "Makine Öğrenmesi Yapay Zeka ve Derin Öğrenme hakkında basit karşılaştırmalar ve işleyişi. ",
+            "language": "Turkish",
+            "speakers": [
+                "TufanKupeli"
+            ],
+            "tags": [
+                "Machine Learning",
+                "AI"
+            ],
+            "title": "AI vs Machine Learning Vs Deep Learning"
+        },
+        "147": {
+            "complexity": "Intermediate",
+            "description": "Kotlin Java ile birlikte calisabilse de Mockito Kotlin dilinin tüm mocklama ihtiyaçlarını karşılamıyor. Kotlin'de en çok kullanılan mocklama kütüphanesi olan MockK'den bahsedeceğim.",
+            "language": "Turkish",
+            "speakers": [
+                "HadiTok"
+            ],
+            "tags": [
+                "Mobile Technologies"
+            ],
+            "title": "Kotlin'de mocklama ve MockK"
+        },
+        "148": {
+            "complexity": "Beginner",
+            "description": "Google Asistan'ın yapabilecekleri ve geleceği ile ilgili kısa bir giriş yaptıktan sonra  Asistan'a özellik ekleme veya uygulama geliştirme olarak da isimlendirilebilecek Action geliştirme konusunu, örnek projeler üzerinde anlatacağım.  Özellikle Firebase Cloud Functions ve Dialogflow kullanarak kendi web servislerini sesli bir arayüze açarak kullanıcılarına daha iyi bir deneyim sunmak isteyen geliştiriciler için uygulama ve action geliştirirken hangi açılardan farklı düşünmek gerekir gibi soruları yanıtlayacağım. Google Asistan'a Action geliştirmenin artı ve eksi yönlerinden bahsedip, Action publish edenlerin kabul edildiği Actions On Google Community Program ile ilgili bilgi vereceğim.",
+            "language": "Turkish",
+            "speakers": [
+                "YukselTolun",
+                "MerveBasak"
+            ],
+            "tags": [
+                "Mobile Technologies",
+                "Voice User Inferfaces"
+            ],
+            "title": "Building Actions For The Google Assistant"
+        },
+        "149": {
+            "description": "Öğle arası | Lunch",
+            "title": "Lunch | Öğle arası",
+            "language": "English | Turkce"
+        },
+        "150": {
+            "complexity": "Intermediate",
+            "description": "Progressive Web Applications or PWAs in short, utilize modern Web Technologies to create cross-platform applications that offer the best of web and native user experiences. This talk begins with the introduction of the PWAs, advantages over the legacy approaches and covers the core elements that define a PWA accompanied by examples with popular libraries like Angular, React and Vue.",
+            "language": "Turkish",
+            "speakers": [
+                "CagatayCivici"
+            ],
+            "tags": [
+                "Web Technologies"
+            ],
+            "title": "A DEEP DIVE INTO PROGRESSIVE WEB APPS"
+        },
+        "151": {
+            "complexity": "Beginner",
+            "description": "Sunumda öncesinde  Arduino Lilypad ve Raspberry Pi Zero'dan kısaca bahsedip ardından onlarla yapılmış örnek projelere yer vereceğim. Ardından kendi projelerimi anlatacağım. Devamında 'Giyilebilir Teknolojide Kadın Hareketinden' kısaca bahsedip ilgi duyanlar için başlangıç projeleriyle ilgili örnek linkler/projeler/etkinlikler göstererek sunumumu bitireceğim.",
+            "language": "Turkish",
+            "speakers": [
+                "HilalGungor"
+            ],
+            "tags": [
+                "STEM",
+                "E-Textiles",
+                "Wearable Tech"
+            ],
+            "title": "Arduino ile E-Textiles & Giyilebilir Teknoloji Projeleri"
+        },
+        "152": {
+            "complexity": "Beginner",
+            "description": "Swift programlama dilindeki Enumeration'ların güçlü özellikleri ve bunların günlük hayattaki kullanım örneklerinden bahsedeceğim.",
+            "language": "Turkish",
+            "speakers": [
+                "SemaSancar"
+            ],
+            "tags": [
+                "Web Technologies"
+            ],
+            "title": "Powerful Enums in Swift"
+        },
+        "153": {
+            "complexity": "Beginner",
+            "description": "Bir Android uygulamasi gelistirmeye baslarken verilmesi gereken kritik kararlar vardir? Kotlin mi kullansak Java mi? Test yazalim mi yoksa Google Play'e direk atalim, sonra bir ara mi yazalim? Data binding mi? Cok gerek yok sanki(!)... ve daha fazlasi icin bakalim dogru karari verebilecek misin?",
+            "language": "Turkish",
+            "speakers": [
+                "BurcuYalcinkaya"
+            ],
+            "tags": [
+                "Mobile Technologies"
+            ],
+            "title": "Interactive Android Application"
+        },
+        "154": {
+            "complexity": "Advanced",
+            "description": "Technological improvement totally depends on internet infrastructure of a country Turkey's widespread fiber investments are enough to jump in a developed countrys' scale or we need to look in a different way? Connectivity-aided economic growth offers greater possibilities and prosperity for all sectors of society. If all stakeholders work together on evidence-based strategies to achieve it, while minimizing disruption, Turkey can hasten a highly connected future that benefits everyone So, we need to speak connectivity first rather than popular topics like AI, IoT or Cloud because fiber or mobile investments supports or creastes those Technologies first My session will bring a different angle to participants' mind and for country's sake they will think what we have to do or request in near future",
+            "language": "Turkish",
+            "speakers": [
+                "İlknurCiftcibasi"
+            ],
+            "tags": [
+                "Mobile Technologies"
+            ],
+            "title": "Turkey's Internet Capabilities though Technology"
+        },
+        "155": {
+            "complexity": "Advanced",
+            "description": "In this talk, I'll talk about basic concepts of Angular and get down to business immediately! We'll go through couple steps. First, we'll create an Angular app using Angular CLI. Then, we'll create our modules, components, services. Finally, we'll use Angular Firebase to glue everything together. Once our app is ready, we'll build it and deploy it to Firebase Hosting to test it together live!",
+            "language": "Turkish",
+            "speakers": [
+                "BunyaminCoskuner"
+            ],
+            "tags": [
+                "Web Technologies",
+                "Firebase",
+                "Cloud"
+            ],
+            "title": "Building realtime messaging app with Angular and Firebase "
+        },
+        "156": {
+            "complexity": "Advanced",
+            "description": "As a Scrum Master and a Product Owner, we want share our stories about how we applied Scrum during a Mobile Application Project which is now available on Apple and Google Play Stores.  We will also talk about our personal journey of turning our career paths towards Agile.",
+            "language": "Turkish",
+            "speakers": [
+                "YaseminDemirdelen",
+                "PeymanTayilga"
+            ],
+            "tags": [
+                "Web Technologies",
+                "Firebase",
+                "Cloud"
+            ],
+            "title": "Scrum Fighters: Adventures of a Scrum Team on a Mobile Application Project"
+        },
+        "157": {
+            "complexity": "Advanced",
+            "description": "Is 'industrial software' any different than usual software? Do “IoT solutions” really solve anything? How to deal with the ridiculously complex problems that come with IoT and industry 4.0 (or industry *.*)? How to survive in all this chaos as a software architect?",
+            "language": "Turkish",
+            "speakers": [
+                "KezbanBayir"
+            ],
+            "tags": [
+                "IoT",
+                "Cloud",
+                "Software Architecture",
+                "Software Career"
+            ],
+            "title": "IoT, Industrial Software and Survival Guide of a Software Architect"
+        },
+        "158": {
+            "complexity": "Begineer",
+            "description": "In the technology sector, we are all going through similar paths. We make mistakes, we learn, we try, we make mistakes again.. In this session, I will talk about what should be done for a better career journey. I will also share the work I do with the Jedi Masters of the sector. Who wouldn't want to learn advice and tactics to be a better developer? Even if you are a senior developer..",
+            "language": "Turkish",
+            "speakers": [
+                "SezgiSensoz"
+            ],
+            "tags": [
+                "Leadership",
+                "career guide"
+            ],
+            "title": "How to be a Jedi Master: Journey from Padawan to Master"
+        },
+        "159": {
+            "complexity": "Begineer",
+            "description": "I am 12 years old for four years now I have been coding and building robots.This year I built a guide dog robot for visually impaired people, my robot dog iC4U and I won the first prize in the hardware category at Coderdojo's International Coolest Projects 2018 and we were also one of the 5 finalists in the open innovation category of the European Youth Awards 2018. I am now working on the second version of my robot guide dog that has AI features such as image processing and voice control. Whilst doing this I am learning python, tensor flow and how to use google AIY kits. I am also in the process of building a new robot for 2019 robotic competitions.  ",
+            "language": "Turkish",
+            "speakers": [
+                "SelinAlaraOrnek"
+            ],
+            "tags": [
+                "Robotics",
+                "AI"
+            ],
+            "title": "#ibuildrobots - My journey of building robots"
+        },
+        "160": {
+            "complexity": "Begineer",
+            "description": "Well-designed animations makes a UI feel more intuitive, contribute to the slick look and feel of a polished app, and improve the user experience. Flutter’s animation support makes it easy to implement a variety of animation types. Many widgets, especially Material widgets, come with the standard motion effects defined in their design spec, but it’s also possible to customize these effects. On my presentation, I will talk about animation types and how we can implement this animations with code examples.",
+            "language": "Turkish",
+            "speakers": [
+                "SercanYusuf",
+                "UmitDuran"
+            ],
+            "tags": [
+                "Mobile Technologies"
+            ],
+            "title": "Animations On Flutter"
+        },
+        "161": {
+            "complexity": "Intermediate",
+            "description": "Artık karar mekanizmalarının bir kısmının bile teknolojiye devredildiği dijital çağda , şirket organizasyon yapıları, iş yapış şekilleri , çalışan profilleri ve motivasyonları baştan aşağı değişti. Düşünülenin aksine , insana olan ihtiyacın azalmayıp arttığı,  duygusal zekanın analitik zeka ile aynı hatta bazen çok daha yüksek bir öneme sahip olduğu günümüz iş dünyasında , efektif bir lider inovatif teknolojileri insanlara -hem çalışanlar hem müşteriler hem de iş ortakları ve paydaşlar- hizmet ettirmeyi başarabilmelidir. ",
+            "language": "Turkish",
+            "speakers": [
+                "YelizTurunc"
+            ],
+            "tags": [
+                "Mobile Technologies",
+                "Machine Learning & AI",
+                "Entrepreneurship",
+                "Leadership"
+            ],
+            "title": "Dijital Çağda Liderlik"
+        },
+        "162": {
+            "complexity": "Intermediate",
+            "description": "In our daily lives, we often face different scale of problems and may not be solving them efficiently or may not be solving them at all, can we can change this around and create more practical, faster and sustainable solutions, by design? What makes an app easy to use, a poster starring, a pair of pants comfortable or a building available for us, the end user, is the design process behind them. As design touches every aspect of our lives, why not use its thinking methods for improving our personal lives as well as professions?",
+            "language": "Turkish",
+            "speakers": [
+                "EceEyisoy"
+            ],
+            "tags": [
+                "Design",
+                "Leadership",
+                "Design Thinking"
+            ],
+            "title": "Keep Calm Start Design Thinking"
+        },
+        "163": {
+            "complexity": "Beginner",
+            "description": "Bu oturumda test mühendisliğine giriş ve sonrasında yaşanan problemlere  nasıl çözüm üretebiliriz, doğan ihtiyaçları nasıl karşılarız, test otomasyonu ne zaman gereklidir/ne kadar gereklidir, mobil test otomasyonuna en hızlı girişi nasıl yapabiliriz ve sonrasında kullandığımız teknolojinin değişmesi gerekiyor mu kararını nasıl veririz, bize en uygun teknolojiyi nasıl buluruz ve nasıl teknoloji değiştiririz konularından bahsedeceğim. Spesifik olarak android test automation ve toolları hakkında bilgilendirme yapacağım.",
+            "language": "Turkish",
+            "speakers": [
+                "GizemSaruhan"
+            ],
+            "tags": [
+                "Mobile Technologies"
+            ],
+            "title": "Mobile Test Automation"
+        },
+        "164": {
+            "complexity": "Beginner",
+            "description": "Yapay Zekanin hayattan ve farkli endustrilerden ornekleriyle ne oldugunu, ve bu konuda calismak icin neler ‘gerektigini’ konusacagiz. Everday examples of AI, basics. How to pursue a career in AI as a woman tech maker",
+            "language": "Turkish",
+            "speakers": [
+                "MerveCerit"
+            ],
+            "tags": [
+                "Mobile Technologies"
+            ],
+            "title": "Yapay Zeka ve Uygulamalari ( AI and its applications)"
+        },
+        "165": {
+            "complexity": "Intermediate",
+            "description": "Dijital Yıkım(Digital Distruption) artık büyük, küçük bütün kurumları hatta endüstrileri etkiliyor. Teknoloji ve inovasyonun hızlanması ile birlikte kullanıcı davranışları ve kullanıcıların markalara bakışları değişti. Google anında her sorumuza cevap veriyor, sosyal medya real time güncellemeleri ile “always –on” kültürünü yarattı ve artık herkes 7/24 hizmet bekler hale geldi. Profesyonelleşmiş ve varsayılanın üzerinde hizmet bekleyen müşteriyi elde tutmak güçleşti. Artık sürdürülebilir başarı ve hatta hayatta kalmak için dijitalleşme ve bütün iş alanlarında çevik yönetim bakış açısı şart(agile mindset). Kısacası müşteri deneyimini mükemmelleştirmek için sadece yazılım alanında değil, kurumun her yerinde hızlı karar alma ve uygulamak gerekli. Şirket büyümesinde istikrar, güvenilirlik, çeviklik ve hız istiyorsak kurum içinde değişim ajanlarına ve çevik liderlere ihtiyacımız var.",
+            "language": "Turkish",
+            "speakers": [
+                "GizemMoralKunter"
+            ],
+            "tags": [
+                "Leadership"
+            ],
+            "title": "Agile Leadership"
+        },
+        "166": {
+            "complexity": "Intermediate",
+            "description": "Açık Mutfak",
+            "language": "Turkish",
+            "speakers": [
+                "ErolKaftanoglu",
+                "OrcunKilic",
+                "SelinTunc",
+                "ArdaArican"
+            ],
+            "tags": [
+                "Development",
+                "Design",
+                "GDGIstanbul",
+                "Tasarım Mutfağı"
+            ],
+            "title": "Merge with Design and Software"
+        },
+        "167": {
+            "complexity": "Begineer",
+            "description": "Kapanış | Closed Keynote, Çekiliş ",
+            "language": "Turkish",
+            "speakers": [],
+            "tags": [
+                "GDGIstanbul"
+            ],
+            "title": "Kapanış | Closed Keynote "
         }
     },
     "speakers": {
@@ -490,7 +832,7 @@
             "company": "Academand",
             "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/academand.jpg?alt=media&token=8dca4816-3f78-4069-95bf-eaab2116cbbe",
             "country": "Turkey",
-            "featured": false,
+            "featured": true,
             "name": "Pamir Erdem",
             "title": "Solutions Architect",
             "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/pamir_erdem.jpg?alt=media&token=f4e2055b-7683-4110-9cec-bc50f0556e7e",
@@ -579,7 +921,7 @@
             "company": "",
             "companyLogoUrl": "",
             "country": "Turkey",
-            "featured": false,
+            "featured": true,
             "name": "Yüksel Tolun",
             "title": "Lawyer / Google Developer Expert on Assistant",
             "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/yuksel_tolun.jpg?alt=media&token=cc8220c3-f477-4362-9c3f-3ce2f3b60f3b",
@@ -814,7 +1156,7 @@
             "company": "TURK TELEKOM",
             "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/turk-telekom.jpg?alt=media&token=db7fee71-15c7-4e78-ae4e-5aaee9d57404",
             "country": "Turkey",
-            "featured": false,
+            "featured": true,
             "name": "İlknur Çiftçibaşı",
             "title": "SALES DIRECTOR",
             "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/ilknur_ciftcibasi.jpg?alt=media&token=3a2c28fa-5774-41fb-b987-ce8d7e550ac0",
@@ -907,7 +1249,7 @@
             "company": "Microsoft",
             "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/microsoft.jpg?alt=media&token=d7bae2d4-d66a-4d80-8201-c134d8fb82e3",
             "country": "Turkey",
-            "featured": false,
+            "featured": true,
             "name": "Merve Cerit",
             "title": "Data&AI Technology Solutions Professional",
             "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/MerveCerit.jpg?alt=media&token=8b8d78bb-b868-4e8b-9f72-075700b63567",
@@ -1205,7 +1547,7 @@
             "company": "Google",
             "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/google.png?alt=media&token=29967743-e249-47f4-bf47-1184a9047c85",
             "country": "Turkey",
-            "featured": false,
+            "featured": true,
             "name": "Barış Yesügey",
             "title": "Developer Relations Region Lead",
             "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/barisyesugey.jpg?alt=media&token=2ede0cfa-694e-40bb-a0e7-0de9358f1abd",
@@ -1241,7 +1583,7 @@
             "tags": [
                 "Web"
             ]
-        }            
+        }
     },
     "team": [
         {
