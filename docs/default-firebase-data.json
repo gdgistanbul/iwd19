@@ -390,6 +390,17 @@
                     ]
                 },
                 {
+                    "startTime": "15:00",
+                    "endTime": "15:20",
+                    "sessions": [
+                        {
+                            "items": [
+                                168
+                            ]
+                        }
+                    ]
+                },
+                {
                     "startTime": "15:20",
                     "endTime": "16:00",
                     "sessions": [
@@ -486,7 +497,7 @@
                             ]
                         }
                     ],
-                    "endTime": "18:00",
+                    "endTime": "18:05",
                     "startTime": "17:40"
                 }
             ]
