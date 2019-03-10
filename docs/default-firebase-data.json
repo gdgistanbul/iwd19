@@ -298,7 +298,7 @@
                         },
                         {
                             "items": [
-                                140
+                                170
                             ]
                         }
                     ]
@@ -859,6 +859,18 @@
                 "Flutter"
             ],
             "title": "Mastering the Theming in Flutter"
+        },
+        "170": {
+            "complexity": "Beginner",
+            "description": "Global arenada daha fazla kazanç, daha önemli projeler ve daha kilit müşterilerle çalışmayı isteyen kadın yazılımcılardan İngilizce bilgisi olarak ne bekleniyor? Bu becerileri elde etmenin alternatif yolları nelerdir? Nasıl başarılı olabilirsiniz?",
+            "language": "Turkish",
+            "speakers": [
+                "SudoSpeak"
+            ],
+            "tags": [
+                "Speaking"
+            ],
+            "title": "İngilizce Ama Ne? İngilizce Ama Ne kadar?"
         }
     },
     "speakers": {
