@@ -206,6 +206,12 @@
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/mondayhero.png?alt=media&token=c6a8f5d3-2cc2-42c6-a3a1-fd34b4a4ae29",
                     "name": "MondayHero",
                     "url": "http://www.gomondayhero.com/"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/KreatifBiri.png?alt=media&token=83dc21c8-7f37-4a56-8cbb-6c7e0d50e796",
+                    "name": "KreatifBiri",
+                    "url": "https://www.kreatifbiri.com/"
                 }
             ],
             "order": 7,
@@ -318,7 +324,7 @@
                         },
                         {
                             "items": [
-                                148
+                                169
                             ]
                         }
                     ]
@@ -384,8 +390,8 @@
                     ]
                 },
                 {
-                    "startTime": "15:10",
-                    "endTime": "15:50",
+                    "startTime": "15:20",
+                    "endTime": "16:00",
                     "sessions": [
                         {
                             "items": [
@@ -404,14 +410,14 @@
                         },
                         {
                             "items": [
-                                160
+                                148
                             ]
                         }
                     ]
                 },
                 {
-                    "endTime": "16:20",
-                    "startTime": "16:00",
+                    "endTime": "16:30",
+                    "startTime": "16:10",
                     "sessions": [
                         {
                             "items": [
@@ -430,14 +436,14 @@
                         },
                         {
                             "items": [
-                                140
+                                160
                             ]
                         }
                     ]
                 },
                 {
-                    "endTime": "16:40",
-                    "startTime": "16:20",
+                    "endTime": "16:50",
+                    "startTime": "16:30",
                     "sessions": [
                         {
                             "items": [
@@ -451,19 +457,19 @@
                         },
                         {
                             "items": [
-                                140
+                                168
                             ]
                         },
                         {
                             "items": [
-                                140
+                                160
                             ]
                         }
                     ]
                 },
                 {
-                    "endTime": "17:30",
-                    "startTime": "16:50",
+                    "endTime": "17:40",
+                    "startTime": "17:00",
                     "sessions": [
                         {
                             "items": [
@@ -480,8 +486,8 @@
                             ]
                         }
                     ],
-                    "endTime": "17:45",
-                    "startTime": "17:30"
+                    "endTime": "18:00",
+                    "startTime": "17:40"
                 }
             ]
         }
@@ -517,17 +523,22 @@
         },
         "144": {
             "complexity": "Intermediate",
-            "description": "Geçmiş deneyimler açıkça göstermiştir ki; bir yazılım ekibi geliştirdiği uygulama ile ilgili bir karar anı geldiğinde, parayı veren kişinin fikri (Highest Paid Person’s Opinion - HIPPO) yerine müşterisinin geribildirimine güvenmelidir. Müşteri geribildirim sürecini kurabilmek içinse kontrollü bir deney ortamı oluşturmak gereklidir. Bu deney ortamı için Feature Toggling, Control/Treatment tests, A/A testing, A/B testing gibi özellikler ile gerçekten şaşırtıcı sonuçlar elde etmek mümkündür. Bu konuşmada müşterilerine korumalı alışveriş deneyimi yaşatmak isteyen bir ekibin kontrollü deney çalışmalarını paylaşmayı hedefliyorum.",
+            "description": "Mikroservislerin son yıllardaki popülerliği ve monolitik korku döngüsü, yazılım alanındaki uzmanların bir uygulama geliştirmeye başlarken direkt mikroservis mimarisi kurmaya çalışmasına neden olmaktadır. Oysa başlangıç olarak monolitik bir uygulama ile başlamak ve sonrasında doğru zamanda 'domain driven design' prensipleri ile mikroservisleri modellemek ve mimariyi kurgulamak türlü başarısızlık senaryolarını engellemekte anahtar noktadır. Bu konuşmada, monolitik bir uygulamanın mikroservis mimarisine geçişini anlatırken; mikroservislerin artıları ve eksilerine, doğru ekip/zaman parametresine, mimari ve tasarım aşamasında dikkate alınması gereken kavramlara, mimari seviyedeki tasarım desenlerine değinmeyi ve bu yolculukta iyzico olarak neler öğrendiğimizi anlatmayı hedefliyorum.",
             "language": "Turkish",
             "speakers": [
                 "GulCabukKeskin"
             ],
             "tags": [
-                "Web Technologies",
-                "Mobile Technologies",
-                "UI/UX"
+                "domain driven design", 
+                "microservices communication", 
+                "error handling", 
+                "architectural patterns", 
+                "data consistency", 
+                "microservice resiliency", 
+                "centralized logging", 
+                "monitoring"
             ],
-            "title": "Continuous customer experience by controlled experiments"
+            "title": "From monolith to microservices and beyond"
         },
         "145": {
             "complexity": "Intermediate",
@@ -694,7 +705,7 @@
             "title": "IoT, Industrial Software and Survival Guide of a Software Architect"
         },
         "158": {
-            "complexity": "Begineer",
+            "complexity": "Beginner",
             "description": "In the technology sector, we are all going through similar paths. We make mistakes, we learn, we try, we make mistakes again.. In this session, I will talk about what should be done for a better career journey. I will also share the work I do with the Jedi Masters of the sector. Who wouldn't want to learn advice and tactics to be a better developer? Even if you are a senior developer..",
             "language": "Turkish",
             "speakers": [
@@ -707,7 +718,7 @@
             "title": "How to be a Jedi Master: Journey from Padawan to Master"
         },
         "159": {
-            "complexity": "Begineer",
+            "complexity": "Beginner",
             "description": "I am 12 years old for four years now I have been coding and building robots.This year I built a guide dog robot for visually impaired people, my robot dog iC4U and I won the first prize in the hardware category at Coderdojo's International Coolest Projects 2018 and we were also one of the 5 finalists in the open innovation category of the European Youth Awards 2018. I am now working on the second version of my robot guide dog that has AI features such as image processing and voice control. Whilst doing this I am learning python, tensor flow and how to use google AIY kits. I am also in the process of building a new robot for 2019 robotic competitions.  ",
             "language": "Turkish",
             "speakers": [
@@ -720,7 +731,7 @@
             "title": "#ibuildrobots - My journey of building robots"
         },
         "160": {
-            "complexity": "Begineer",
+            "complexity": "Beginner",
             "description": "Well-designed animations makes a UI feel more intuitive, contribute to the slick look and feel of a polished app, and improve the user experience. Flutter’s animation support makes it easy to implement a variety of animation types. Many widgets, especially Material widgets, come with the standard motion effects defined in their design spec, but it’s also possible to customize these effects. On my presentation, I will talk about animation types and how we can implement this animations with code examples.",
             "language": "Turkish",
             "speakers": [
@@ -816,7 +827,7 @@
             "title": "Merge with Design and Software"
         },
         "167": {
-            "complexity": "Begineer",
+            "complexity": "Beginner",
             "description": "Kapanış | Closed Keynote, Çekiliş ",
             "language": "Turkish",
             "speakers": [],
@@ -824,6 +835,30 @@
                 "GDGIstanbul"
             ],
             "title": "Kapanış | Closed Keynote "
+        },
+        "168": {
+            "complexity": "Beginner",
+            "description": "Merak, soru sormak ve bilim! peki ya bilim insanı değilsek bize neden bilim lazım? Bu sorularla bilim hakkında daha fazla soru sormamız için bu konuşmayı hazırladım. Evet konuşmanın amacı cevaplar vermekten çok daha fazla düşünmek ve sormak. Çünkü herşey bir soru sorarak başlar.Merak, insanlığın en temel yaşamsal özelliklerinden biridir. Özellikle çocukluk çağında önplandadır. Yetişkinlikteyse daha seçici ve sofistike bir hal alarak hayatımıza dahil olur. Çocuklar gökyüzü neden mavi diye merak ederken, yetişkinler uçaklardan neden gaz bulutu çıktığını merak ederler. Merak etme süreci soru sormayı da beraberinde getirir. Etraflarındaki şeylere göre, neden, nasıl, nerede, kim, ne soruları ilk akla gelenlerdir. Bilim, insanlığın evreni anlama çabasında günümüzde kullandığı en sistematik yaklaşımdır. Belli bir disiplin ve çalışma yöntemiyle etrafımızı keşfetmemizin ismidir de diyebiliriz. Bilim soru sorarak araştırmaya başlar. Sorularına ise belli bir düzen içinde yapılmış araştırmalarla cevap vermeye çalışır. Ancak her yeni cevap, kendisiyle birlikte yeni başka sorular getirir. Bu süreçlerin tamamına bilim deriz.Peki neden bilim herkese lazım? Soru sormak ve etrafı keşfetmek en temel içgüdülerimizden biri. Bu keşif süreciniyse şu anda en iyi ortaya koyuş yöntemlerimizden biri de bilim.",
+            "language": "Turkish",
+            "speakers": [
+                "ElcinEksi"
+            ],
+            "tags": [
+                "STEM"
+            ],
+            "title": "Bilim Herkese Lazım!"
+        },
+        "169": {
+            "complexity": "Beginner",
+            "description": "If you are into mobile development, you probably heard of Flutter. It's the new kid in the block and offers you a native cross-platform development environment. Even before the stable version, big companies like Alibaba decided to move their applications to Flutter. After it became stable, it got even more attention.One of the mottos of the Flutter was 'Developing beautiful applications in record time'. As we all know, for building a beautiful application, we need to understand the theming and how it works in platforms. In this talk we are going to talk about the base concepts of theming, how you can implement theming in Flutter by following the Material Guidelines and see how we can create a beautiful application.",
+            "language": "Turkish",
+            "speakers": [
+                "MuhammedSalihGuler"
+            ],
+            "tags": [
+                "Flutter"
+            ],
+            "title": "Mastering the Theming in Flutter"
         }
     },
     "speakers": {
@@ -882,7 +917,7 @@
             "socials": [
                 {
                     "icon": "website",
-                    "link": "www.tufankupeli.com",
+                    "link": "http://www.tufankupeli.com",
                     "name": "Website"
                 }
             ],
@@ -1348,7 +1383,7 @@
             "socials": [
                 {
                     "icon": "linkedin",
-                    "link": "https://tr.linkedin.com/orrcunkilic",
+                    "link": "https://www.linkedin.com/in/orrcunkilic/",
                     "name": "Linkedin"
                 },
                 {
@@ -1374,7 +1409,7 @@
             "socials": [
                 {
                     "icon": "linkedin",
-                    "link": "https://tr.linkedin.com/ardaarican",
+                    "link": "https://www.linkedin.com/in/ardaarican/",
                     "name": "Linkedin"
                 },
                 {
@@ -1471,7 +1506,7 @@
             "featured": false,
             "name": "Filiz Gökçe",
             "title": "Software Development Associate Manager",
-            "photoUrl": "",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/FilizGokce.jpg?alt=media&token=febe9743-0299-41f9-aca9-ef43b884f014",
             "shortBio": "I am responsible for providing overall project management, planning, negotiation, execution and delivery for a program which has multiple projects at multi-region.",
             "socials": [
                 {
@@ -1579,6 +1614,69 @@
                     "link": "https://twitter.com/sudospeak",
                     "name": "Twitter"
                 }
+            ],
+            "tags": [
+                "Web"
+            ]
+        },
+        "MuhammedSalihGuler": {
+            "bio": "Salih is a Berlin based Android & Flutter Developer who follows all the cutting edge technologies for the mobile world. He is a Google Developer Expert on Flutter and Dart language. He also likes sharing his knowledge with the people by mentoring aspiring developers, creating study groups and blogging.",
+            "company": "Onefootball",
+            "companyLogoUrl": "",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Muhammed Salih Güler",
+            "title": "Android/Flutter Developer",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/salihguler.png?alt=media&token=a65cef35-0dbf-459d-979f-252a3b01cabd",
+            "shortBio": "Salih is a Berlin based Android & Flutter Developer who follows all the cutting edge technologies for the mobile world.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/salihgueler",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/salihgueler",
+                    "name": "Github"
+                },
+                {
+                    "icon": "medium",
+                    "link": "https://medium.com/@muhammedsalihguler",
+                    "name": "Medium"
+                }
+            ],
+            "tags": [
+                "Web"
+            ]
+        },
+        "ElcinEksi": {
+            "bio": "Hacettepe Biyoloji Bölümünden 2011 yılında mezun olduktan sonra ODTÜ’de Antik DNA çalışmaları ile lisans üstü eğitimini sürdürmüştür. Lisans eğitiminde ve daha sonrasında ekoloji ve popülasyon ile ilgilenmiş olup, vektör ekolojisi üzerine çalışmaları ve yayınları bulunmaktadır. ODTÜ’de lisans üstü çalışmalarına devam ederken biyoteknoloji girişimciliğine adım atmış olup, Türkiye’de inovatif biyoteknoloji ekosisteminin gelişmesi için çalışmalarına devam etmektedir. Bildiklerini ve öğrendiklerini paylaşmaktan büyük mutluluk duyar.",
+            "company": "ERES Biotech",
+            "companyLogoUrl": "",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Elçin Ekşi",
+            "title": "Biologist",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/elcineksi.JPG?alt=media&token=f0892ea5-ebc6-469e-9394-c1f3b0e71e04",
+            "shortBio": "ODTÜ’de lisans üstü çalışmalarına devam ederken biyoteknoloji girişimciliğine adım atmış olup, Türkiye’de inovatif biyoteknoloji ekosisteminin gelişmesi için çalışmalarına devam etmektedir. Bildiklerini ve öğrendiklerini paylaşmaktan büyük mutluluk duyar.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/AmaEksi",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "medium",
+                    "link": "https://medium.com/@Elcin ",
+                    "name": "Medium"
+                },
+                {
+                    "icon": "instagram",
+                    "link": "https://www.instagram.com/eksielcin",
+                    "name": "Instagram"
+                }
+
             ],
             "tags": [
                 "Web"
