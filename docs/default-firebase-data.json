@@ -40,7 +40,7 @@
                     "url": "https://about.google/intl/en/"
                 }
             ],
-            "order": 0,
+            "order": 1,
             "title": "General Sponsor"
         },
         {
@@ -52,7 +52,7 @@
                     "url": "https://www.accenture.com/us-en"
                 }
             ],
-            "order": 1,
+            "order": 0,
             "title": "Platinum Sponsor"
         },
         {
@@ -395,7 +395,7 @@
                     "sessions": [
                         {
                             "items": [
-                                168
+                                171
                             ]
                         }
                     ]
@@ -540,13 +540,13 @@
                 "GulCabukKeskin"
             ],
             "tags": [
-                "domain driven design", 
-                "microservices communication", 
-                "error handling", 
-                "architectural patterns", 
-                "data consistency", 
-                "microservice resiliency", 
-                "centralized logging", 
+                "domain driven design",
+                "microservices communication",
+                "error handling",
+                "architectural patterns",
+                "data consistency",
+                "microservice resiliency",
+                "centralized logging",
                 "monitoring"
             ],
             "title": "From monolith to microservices and beyond"
@@ -882,6 +882,16 @@
                 "Speaking"
             ],
             "title": "İngilizce Ama Ne? İngilizce Ama Ne kadar?"
+        },
+        "171": {
+            "complexity": "Begineer",
+            "description": "Break Timeee!",
+            "language": "Turkish",
+            "speakers": [],
+            "tags": [
+                "GDGIstanbul"
+            ],
+            "title": "Break Timeee!"
         }
     },
     "speakers": {
@@ -1699,7 +1709,6 @@
                     "link": "https://www.instagram.com/eksielcin",
                     "name": "Instagram"
                 }
-
             ],
             "tags": [
                 "Web"
