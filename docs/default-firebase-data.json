@@ -611,15 +611,15 @@
         },
         "150": {
             "complexity": "Intermediate",
-            "description": "Progressive Web Applications or PWAs in short, utilize modern Web Technologies to create cross-platform applications that offer the best of web and native user experiences. This talk begins with the introduction of the PWAs, advantages over the legacy approaches and covers the core elements that define a PWA accompanied by examples with popular libraries like Angular, React and Vue.",
+            "description": "Imagine you have plans to start your own technology company. You have interesting ideas and strong opinions for the success. You have, or your partners have passion and endless energy for coding and building products. What else do you need? How can a startup born, grow, scale and succeed? Are startups great places to work, or simply blackholes where chaos and burn-out define the rules? In this session, Lemi will talk about how we can build a technology company from nothing and make it scale gradually by continuously keeping its agility at desired levels.",
             "language": "Turkish",
             "speakers": [
-                "CagatayCivici"
+                "LemiOrhanErgin"
             ],
             "tags": [
-                "Web Technologies"
+                "Entrepreneurship", "Leadership"
             ],
-            "title": "A DEEP DIVE INTO PROGRESSIVE WEB APPS"
+            "title": "How to Build a Technology Company"
         },
         "151": {
             "complexity": "Beginner",
