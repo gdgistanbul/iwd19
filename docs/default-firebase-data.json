@@ -1692,6 +1692,38 @@
             "tags": [
                 "Web"
             ]
+        },
+        "LemiOrhanErgin": {
+            "bio": "Lemi Orhan Ergin is a software craftsman with a passion in raising the bar of his profession and sharing his experiences with the communities. He is the co-founder of Craftbase and founder of Turkish Software Craftsmanship Community.He has been developing software since 2001. He worked as a developer, a technical leader, an Agile coach, An Agile Practice Lead and a trainer at Sony, eBay/GittiGidiyor, ACM, iyzico before founding his own company. He is an active practitioner and trainer in Agile methodologies, Scrum, Extreme Programming and engineering practices and technologies.Giving back to the community is the way he lives. He has already spoke at 30+ conferences and 100+ seminars, organized 200+ meetups, created a podcast series and distributed his talks to feed his passion. His slides are viewed more than 1 million times.",
+            "company": "Craftbase",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/craftbase.jpg?alt=media&token=e5a5b33f-2d48-4d50-a806-19b7c4dea7cb",
+            "country": "Turkey",
+            "featured": true,
+            "name": "Lemi Orhan Ergin",
+            "title": "Co-Founder",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/lemi_orhan_ergin.jpg?alt=media&token=cc6cfaeb-099c-4262-8377-0ad7f536945a",
+            "shortBio": "He is the co-founder of Craftbase and founder of Turkish Software Craftsmanship Community.He has been developing software since 2001. He worked as a developer, a technical leader, an Agile coach, An Agile Practice Lead and a trainer at Sony, eBay/GittiGidiyor, ACM, iyzico before founding his own company.",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/lemiorhan",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "website",
+                    "link": "http://www.lemiorhanergin.com",
+                    "name": "Blog"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/lemiorhan",
+                    "name": "Linkedin"
+                }
+            ],
+            "tags": [
+                "Entrepreneurship", 
+                "Leadership"
+            ]
         }
     },
     "team": [
