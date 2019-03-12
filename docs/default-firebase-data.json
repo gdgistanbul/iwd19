@@ -1140,27 +1140,6 @@
                 "Android"
             ]
         },
-        "CagatayCivici": {
-            "bio": "Cagatay Civici is a Java Champion and the founder of the popular PrimeFaces, PrimeNG and PrimeReact, PrimeVue UI component suites. As a front-end engineer he has been developing open source UI Components for over 10 years.",
-            "company": "PrimeTek",
-            "companyLogoUrl": "",
-            "country": "Turkey",
-            "featured": true,
-            "name": "Çağatay Çivici",
-            "title": "CEO",
-            "photoUrl": "https://lh3.googleusercontent.com/CIGnmuvJtQBHGPjSLKH5WbdPqwAlgXZD0OD4bVRTRn-0SnXXXC0sWjDp2Q11enKYYt5OK3vtQl49vDl6xvWnjdhqgIS7Sr2XRpCCC_KtRaPXRjtbhszsV7jOzaZkgM7gNADUZRxpX0FyTLJHoZHS7_PYdI3lhadEOhDKne4m7j1AFuMkNbrrqesXoNP5U0sKozhBG6OzGz0wDH8EpB1BVGZeXjoV2pmnGOnkVDbbrKWD9IJLRdOJ8ghY--DjP6xG94K_wsb6P2y71sbSBoUEmm-eIgxLla0m4ZOqVwOEjPE54feeM3s5i5wCWzpITHJbGxQN0UZyAUPD6RMOmWeNF01PlGqOq_YL42gkDdd01OKkR67_avwEwuTLZpvdRAH_QLglLsV4SPDuclFpY-3XNZPxGVyF0uotcAqCRuc236Xm2n5D_ZpPAxWgAK82iamHzK3LM0lSiWIxS-UTFYd7DpZyFgwJkSCfETNkptzzFEr5OznLS_kCn9IyAKnlllCBiZngyBW2ocJGnhgQYmM0IDBG6ttWwwcyDH_C7A2_J-p2cncJo9Uzk4E3-9D50Ia8ivnrG6CL44zXdglSD09I2Ks-la-IkshIU77URsAHY4eCutGKmQmnSo2KIiJLUlFAEabof8oQu3AZzsZZ6Bp3pdaIS7KxcKAr=w1000-no-tmp.jpg",
-            "shortBio": "Cagatay Civici is a Java Champion and the founder of the popular PrimeFaces, PrimeNG and PrimeReact, PrimeVue UI component suites. As a front-end engineer he has been developing open source UI Components for over 10 years.",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/cagataycivici",
-                    "name": "Twitter"
-                }
-            ],
-            "tags": [
-                "Progressive Web Applications"
-            ]
-        },
         "BunyaminCoskuner": {
             "bio": "Bünyamin is a software engineer at Garanti Technology. He’s been using both AngularJs and Angular in financial applications for quite some time. He loves learning and talking about Angular. When not coding, you can find him gaming or helping others on Stack Overflow.",
             "company": "Garanti Technology",
