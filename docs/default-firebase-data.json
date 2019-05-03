@@ -59,27 +59,27 @@
             "logos": [
                 {
                     "order": 0,
-                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adphorus.png?alt=media&token=2142401f-2dac-4eed-97ed-33ccb60858f4",
-                    "name": "Adphorus",
-                    "url": "https://adphorus.com/"
-                },
-                {
-                    "order": 0,
-                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/vestel-kirmizi-logo-buyuk.png?alt=media&token=2da97590-a909-4ee2-9d09-c1b1afa319c6",
-                    "name": "Vestel",
-                    "url": "http://www.vestel.com.tr/"
-                },
-                {
-                    "order": 0,
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adesso.png?alt=media&token=ffa7a8c5-eefb-4083-baa1-4fbd2f3652f0",
                     "name": "Adesso",
                     "url": "https://www.adesso.com.tr/en/index-3.jsp"
                 },
                 {
                     "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/adphorus.png?alt=media&token=2142401f-2dac-4eed-97ed-33ccb60858f4",
+                    "name": "Adphorus",
+                    "url": "https://adphorus.com/"
+                },
+                {
+                    "order": 0,
                     "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/iyzico.jpg?alt=media&token=97c02555-ac91-445f-bcb7-9b24adf42876",
                     "name": "iyzico",
                     "url": "https://www.iyzico.com/"
+                },
+                {
+                    "order": 0,
+                    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/vestel-kirmizi-logo-buyuk.png?alt=media&token=2da97590-a909-4ee2-9d09-c1b1afa319c6",
+                    "name": "Vestel",
+                    "url": "http://www.vestel.com.tr/"
                 }
             ],
             "order": 2,
@@ -288,7 +288,7 @@
                         },
                         {
                             "items": [
-                                140
+                                172
                             ]
                         },
                         {
@@ -617,7 +617,8 @@
                 "LemiOrhanErgin"
             ],
             "tags": [
-                "Entrepreneurship", "Leadership"
+                "Entrepreneurship",
+                "Leadership"
             ],
             "title": "How to Build a Technology Company"
         },
@@ -892,6 +893,19 @@
                 "GDGIstanbul"
             ],
             "title": "Break Timeee!"
+        },
+        "172": {
+            "complexity": "Begineer",
+            "description": "Biz Vestel olarak tek gün değil her gün kadın konularının gündeme gelmesini arzu ediyor ve bunun için ses çıkarmaya devam ediyoruz. Toplumda önceliğin “ toplumsal cinsiyet eşitliği”olduğunu biliyoruz. Ancak kadın konuları türkiye’de halen bugün sorun olduğu için biz pozitif ayrımcılık ile 8 mart’ı bir değil her gün gündeme taşıyoruz.            ",
+            "language": "Turkish",
+            "speakers": [
+                "FEZATURUNCOGLU"
+            ],
+            "tags": [
+                "VESTEL",
+                "Woman Tech"
+            ],
+            "title": "VESTEL 365 Gün Kadınlar Günü"
         }
     },
     "speakers": {
@@ -944,7 +958,7 @@
             "country": "Turkey",
             "featured": true,
             "name": "Tufan Küpeli",
-            "title": "Mobile Team Leader",
+            "title": "Mobile Competence Center Manager",
             "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/tufan_kupeli.png?alt=media&token=7ae07fc9-0aad-4bca-9249-03475d2f874b",
             "shortBio": "adesso Turkey firmasında çalışıyorum ve Akbank lokasyonunda kurulu ekibimiz ile çalışmalarımıza devam ediyoruz.",
             "socials": [
@@ -1721,7 +1735,23 @@
                 }
             ],
             "tags": [
-                "Entrepreneurship", 
+                "Entrepreneurship",
+                "Leadership"
+            ]
+        },
+        "FEZATURUNCOGLU": {
+            "bio": "Bilkent üniversitesinden sonra The Marmara İstanbul’da çalışmaya başladı. Reklamcı olma arzusu nedeniyle sektör değiştirdi. Sırasıyla ; Cen Ajans, AlfaReklam Üssü ve Lowe İstanbul’da ( Şimdiki adı ile MullenLowe Istanbul ) görev yaptı. Müşteri Temsilcisi olarak çalışmaya başladığı Lowe’da Başkan Yardımcısı  pozisyonuna kadar yükseldi. Aynı zamanda Yürütme Kurulu Üyesi olarak görev yaptı. Masanın diğer tarafına geçme kararı ile 2012 Aralık ayından beri Vestel’de Pazarlama İletişim & Perakende Pazarlama Grup Müdürü olarak görev yapmakta. ",
+            "company": "VESTEL TİCARET A.Ş.",
+            "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/vestel-kirmizi-logo-buyuk.png?alt=media&token=2da97590-a909-4ee2-9d09-c1b1afa319c6",
+            "country": "Turkey",
+            "featured": false,
+            "name": "Feza TURUNÇOĞLU",
+            "title": "PAZARLAMA İLETİŞİMİ&PERAKENDE PAZARLAMA GRUP MÜDÜRÜ",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/Feza%20Turunc%CC%A7og%CC%86lu.jpg?alt=media&token=4a57de4d-0268-4d2d-899b-a5757d466ec6",
+            "shortBio": "Bilkent üniversitesinden sonra The Marmara İstanbul’da çalışmaya başladı. Reklamcı olma arzusu nedeniyle sektör değiştirdi...",
+            "socials": [],
+            "tags": [
+                "Entrepreneurship",
                 "Leadership"
             ]
         }
